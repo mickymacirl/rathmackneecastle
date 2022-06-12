@@ -7,4 +7,8 @@ body {
     background-color: #253439;
     color: white;
   }
+  .navbar {
+    display: flex;
+    background-color: #b29e84;
+  }
   
