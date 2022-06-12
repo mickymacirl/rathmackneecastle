@@ -13,7 +13,7 @@ This site was test</p>
         Users will be able to navigate between each page and have the menu the same location on different devices.
         </li>
     <h3>Footer</h3>
-        <li>SHas links to social media websites, and  that are set to open in a new tab window and Castle contact information.</li>
+        <li>Has links to social media websites, and  that are set to open in a new tab window and Castle contact information.</li>
         <li>Icon will use visually impaired features like aria labels.</li>
     <h3>404 page</h3>
         <li>A 404 broken page link page will be created and allow the user to easily navigate back to Home page.</li>
@@ -52,7 +52,7 @@ This site was test</p>
     <h3>CSS</h3>
     <li>The Website was styled by connecting a custom CSS to an external file.</li>
     <h3>Visual Studio Code</h3>
-    <li>The website was developed using Visual Studio Code IDE and Dreamweaver.</li>
+    <li>The website was developed using Visual Studio Code IDE and Adobe Dreamweaver.</li>
     <h3>GitHub</h3>
     <li>Source code is hosted on GitHub and delpoyed using Git Pages.</li>
     <h3>Git</h3>
@@ -62,7 +62,7 @@ This site was test</p>
     <h3>balsamiq</h3>
     <li>Created wireframes for this website using balsamiq: https://balsamiq.com/wireframes/desktop/#</li>
 <h2>Testing</h2>
-<h2>Responsiveness</h2>S
+<h2>Responsiveness</h2>
 <h2>Accessibility</h2>
 <h2>Lighthouse Testing</h2>
 <h2>Funcational Testing</h2>
