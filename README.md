@@ -7,13 +7,13 @@ This site was test</p>
 <p>This site was test</p>
 <h2>Features of Website</h2>
     <h3>NavBar</h3>
-        <dl>Has links to the Home, History, Contact pages and is responsive on all device sizes.
-        </dl>
-        <dl>
+        <li>Has links to the Home, History, Contact pages and is responsive on all device sizes.
+        </li>
+        <li>
         Users will be able to navigate between each page and have the menu the same location on different devices.
-        </dl>
+        </li>
     <h3>Footer</h3>
-        <li>Has links to social media websites, and  that are set to open in a new tab window and Castle contact information.</li>
+        <li>SHas links to social media websites, and  that are set to open in a new tab window and Castle contact information.</li>
         <li>Icon will use visually impaired features like aria labels.</li>
     <h3>404 page</h3>
         <li>A 404 broken page link page will be created and allow the user to easily navigate back to Home page.</li>
