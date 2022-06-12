@@ -2,7 +2,8 @@
     box-sizing: border-box;
   }
 body {
-    background-color: greenyellow;
+    background-color: white;
+    color: #253439;
     font-family: Arial;
     margin: 0;
   }
