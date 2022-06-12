@@ -25,7 +25,16 @@ This site was test</p>
     <h3>History Page</h3>
         <li>The History page will provide the user information about the Castle's history.</li>
         <li>The History page will provide the user links to articles and video's about the Castle's history.</li>
+    <h3>Confirm Page</h3>
+        <li>The Confirm page will provide the user with a message about successful submit.</li>
+        <li>The Confirm page will provide a thanks and a average response time.</li>
 <h2>Design</h2>
+<h3>Wireframes</h3>
+<h4>Landing Page</h4>
+<h4>History Page</h4>
+<h4>Contact Page</h4>
+<h4>404 Page</h4>
+<h4>Confirm Page</h4>
 <h2>Technology</h2>
 <h2>Testing</h2>
 <h2>Responsiveness</h2>
