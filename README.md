@@ -35,3 +35,8 @@ This site was test</p>
 <h2>Validator Testing</h2>
 <h2>Deployment</h2>
 <h2>Credits</h2>
+<h3>W3C School Flex Box Responsive
+<li>Used W3C to create flex box responsive</li>
+<li>
+https://www.w3schools.com/css/css3_flexbox_responsive.asp</li>
+</h3>
