@@ -23,3 +23,22 @@ body {
     background-color: #253439;
     color: white;
   }
+  .row {
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .main {
+      flex: 70%;
+      background-color:#f1f1f1;
+      padding: 20px;
+  }
+  .side {
+      flex: 30%;
+      background-color: #f1f1f1;
+      padding: 20px;
+  }
+  .footer {
+      padding: 10px;
+      text-align: center;
+      background: #b29e84;
+  }
