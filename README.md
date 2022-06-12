@@ -31,7 +31,7 @@ This site was test</p>
 <h2>Design</h2>
 <h3>Wireframes</h3>
 <h4>Landing Page</h4>
-<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Index320.png" alt="Index Page 320" title="Index Page 320">
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Index320.jpg" alt="Index Page 320" title="Index Page 320">
 ![Index Page 320](/assets/readme/index320.png?raw=true "Index Page 320")
 <h4>History Page</h4>
 <h4>Contact Page</h4>
