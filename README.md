@@ -54,7 +54,7 @@ This site was test</p>
     <h3>Visual Studio Code</h3>
     <li>The website was developed using Visual Studio Code IDE and Adobe Dreamweaver.</li>
     <h3>GitHub</h3>
-    <li>Source code is hosted on GitHub and delpoyed using Git Pages.</li>
+    <li>Source code is hosted on GitHub and deployed using Git Pages.</li>
     <h3>Git</h3>
     <li>Used to commit and push code during the development of site.</li>
     <h3>Adobe Photoshop</h3>
@@ -63,6 +63,8 @@ This site was test</p>
     <li>Created wireframes for this website using balsamiq: https://balsamiq.com/wireframes/desktop/#</li>
 <h2>Testing</h2>
 <h2>Responsiveness</h2>
+<li>Pages were tested on various different screen sizes from 320px on a Android S20, Samsung fold 2, iPhone 12 and a wide screen Windows machine.</li>
+<li>Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.</li>
 <h2>Accessibility</h2>
 <h2>Lighthouse Testing</h2>
 <h2>Funcational Testing</h2>
