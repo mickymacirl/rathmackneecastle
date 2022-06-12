@@ -45,8 +45,8 @@ This site was test</p>
 <h2>Deployment</h2>
 <h2>Credits</h2>
 <h3>W3C School Flex Box Responsive</h3>
-<li>Used W3C to create flex box responsive</li>
-<li>https://www.w3schools.com/css/css3_flexbox_responsive.asp</li>
+<li>Used W3C to create flex box responsive
+https://www.w3schools.com/css/css3_flexbox_responsive.asp</li>
 <h3>Content</h3>
 <li>Logo created using Canva and Adobe Photoshop</li>
 <li>Website text content used from Wikipedia https://en.wikipedia.org/wiki/Rathmacknee_Castle</li>
