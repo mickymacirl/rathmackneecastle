@@ -31,6 +31,7 @@ This site was test</p>
 <h2>Design</h2>
 <h3>Wireframes</h3>
 <h4>Landing Page</h4>
+<img src="assets/readme/index320.png" alt="Index Page 320" title="Index Page 320">
 <h4>History Page</h4>
 <h4>Contact Page</h4>
 <h4>404 Page</h4>
