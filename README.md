@@ -6,14 +6,15 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 This site was test</p>
 <p>This site was test</p>
 <h2>Features of Website</h2>
-    <h3>Nav Bar</h3>
+    <h3>NavBar</h3>
         <li>Has links to the Home, History, Contact pages and is responsive on all device sizes.
         </li>
         <li>
         Users will be able to navigate between each page and have the menu the same location on different devices.
         </li>
     <h3>Footer</h3>
-        <li>Has links to social media websites, and  that are set to open in a new tab window and Castle contact information. Icon will use visually impaired features like aria labels.</li>
+        <li>Has links to social media websites, and  that are set to open in a new tab window and Castle contact information.</li>
+        <li>Icon will use visually impaired features like aria labels.</li>
     <h3>404 page</h3>
         <li>A 404 broken page link page will be created and allow the user to easily navigate back to Home page.</li>
     <h3>Contact page</h3>
@@ -46,20 +47,20 @@ This site was test</p>
 <img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Confirm320.jpg" alt="Confirm Page 320" title="Confirm Page 320">
 <img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Confirm700.jpg" alt="Confirm Page 700" title="Confirm Page 700">
 <h2>Technology</h2>
-    HTML
-    The main lanuagage of this Website was developed using HTML.
-    CSS
-    The Website was styled by connecting a custom CSS to an external file.
-    Visual Studio Code
-    The website was developed using Visual Studio Code IDE and Dreamweaver.
-    GitHub
-    Source code is hosted on GitHub and delpoyed using Git Pages.
-    Git
-    Used to commit and push code during the development of site.
-    Adobe Photoshop
-    Used Adobe Photop for the hero and logo images.
-    balsamiq
-    Created wireframes for this website using balsamiq: https://balsamiq.com/wireframes/desktop/#
+   <h3>HTML</h3>
+    <li>The main lanuagage of this Website was developed using HTML.</li>
+    <h3>CSS</h3>
+    <li>The Website was styled by connecting a custom CSS to an external file.</li>
+    <h3>Visual Studio Code</h3>
+    <li>The website was developed using Visual Studio Code IDE and Dreamweaver.</li>
+    <h3>GitHub</h3>
+    <li>Source code is hosted on GitHub and delpoyed using Git Pages.</li>
+    <h3>Git</h3>
+    <li>Used to commit and push code during the development of site.</li>
+    <h3>Adobe Photoshop</h3>
+    <li>Used Adobe Photop for the hero and logo images.</li>
+    <h3>balsamiq</h3>
+    <li>Created wireframes for this website using balsamiq: https://balsamiq.com/wireframes/desktop/#</li>
 <h2>Testing</h2>
 <h2>Responsiveness</h2>S
 <h2>Accessibility</h2>
