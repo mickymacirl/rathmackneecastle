@@ -11,4 +11,10 @@ body {
     display: flex;
     background-color: #b29e84;
   }
+  .navbar a {
+    color: #253439;
+    padding: 10px 20px;
+    text-decoration: none;
+    text-align: left;
+  }
   
