@@ -17,4 +17,7 @@ body {
     text-decoration: none;
     text-align: left;
   }
-  
+  .navbar a:hover {
+    background-color: #253439;
+    color: white;
+  }
