@@ -34,11 +34,17 @@ This site was test</p>
 <img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Index320.jpg" alt="Index Page 320" title="Index Page 320">
 <img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Index700.jpg" alt="Index Page 320" title="Index Page 700">
 <h4>History Page</h4>
-<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/History320.jpg" alt="History Page 700" title="Index Page 320">
-<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/History700.jpg" alt="History Page 700" title="Index Page 320">
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/History320.jpg" alt="History Page 700" title="History Page 320">
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/History700.jpg" alt="History Page 700" title="History Page 320">
 <h4>Contact Page</h4>
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Contact320.jpg" alt="Contact Page 320" title="Contact Page 320">
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Contact700.jpg" alt="Contact Page 700" title="Contact Page 700">
 <h4>404 Page</h4>
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/404320.jpg" alt="Contact Page 320" title="404 Page 320">
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/404700.jpg" alt="Contact Page 700" title="404 Page 700">
 <h4>Confirm Page</h4>
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Contact320.jpg" alt="Confirm Page 320" title="Confirm Page 320">
+<img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Contact700.jpg" alt="Confirm Page 700" title="Confirm Page 700">
 <h2>Technology</h2>
 <h2>Testing</h2>
 <h2>Responsiveness</h2>S
