@@ -45,7 +45,7 @@ body {
       text-align: center;
       background: #b29e84;
   }
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 600px) {
     .row, .navbar {   
       flex-direction: column;
     }
