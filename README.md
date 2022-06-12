@@ -6,6 +6,16 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 This site was test</p>
 <p>This site was test</p>
 <h2>Features of Website</h2>
+    <h3>
+        <li>
+        Nav Bar
+        <li>Has links to the Home, History and Contact pages and is responsive on all devices.
+        </li>
+        <li>
+        Users will be able to navigate between every page and have the menu the same on different devices.
+        </li>
+        </li>
+    </h3>
 <h2>Design</h2>
 <h2>Technology</h2>
 <h2>Testing</h2>
