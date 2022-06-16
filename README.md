@@ -28,9 +28,9 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 * The History page will provide the user links to articles and video's about the Castle's history.
 * Image of History page
 ### Confirm page
-        <li>The Confirm page will provide the user with a message about successful submit.</li>
-        <li>The Confirm page will provide a thanks and a average response time.</li>
-        <li>Image of Confirm page</li>
+ * The Confirm page will provide the user with a message about successful submit.
+ * The Confirm page will provide a thanks and a average response time.
+ * Image of Confirm page
 ## Design
 ### Wireframes
 #### Landing Page
