@@ -82,4 +82,5 @@ https://www.w3schools.com/css/css3_flexbox_responsive.asp</li>
 <h3>Content</h3>
 <li>Logo created using Canva and Adobe Photoshop</li>
 <li>Website text content used from Wikipedia https://en.wikipedia.org/wiki/Rathmacknee_Castle</li>
+~~The world is flat~~
 
