@@ -80,7 +80,6 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 <h2>Lighthouse Testing</h2>
 <h2>Funcational Testing</h2>
 <h2>Validator Testing</h2>
-<li></li>
 <h2>Deployment</h2>
 <h2>Credits</h2>
 <h3>Markdown Language</h3>
