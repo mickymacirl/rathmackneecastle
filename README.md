@@ -1,40 +1,33 @@
 # Rathmacknee Castle
-<p>
+
 Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle. View the live site: <a href="here.html">here</a></p>
 ## Features of Website
 ## Image of Main Site
 ### NavBar</h3>
-        <li>Has links to the Home, History, Contact pages and is responsive on all device sizes.
-        </li>
-        <p>
-            <img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/navbar_readme.jpg" alt="NavBar Readme" title="NavBar Readme">
-        </p>
-        <p>
-            <img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/navbar_readmesmall.jpg" alt="NavBar Readme" title="NavBar Readme">
-        </p>
-        <li>
-        Users will be able to navigate between each page and have the menu the same location on different devices.
-        </li>
-    <h3>Footer</h3>
-        <li>Has links to social media websites, and  that are set to open in a new tab window and Castle contact information.</li>
-        <li>Icon will use visually impaired features like aria labels.</li>
-        <li>Image of Footer</li>
-    <h3>404 page</h3>
-        <li>A 404 broken page link page will be created and allow the user to easily navigate back to Home page.</li>
-        <li>Image of 404 page</li>
-    <h3>Contact page</h3>
-        <li>The contact page will provide the user with a contact form to request additional information.</li>
-        <li>The contact page will also display the Castles address and other information.</li>
-        <li>Image of Contact page</li>
-    <h3>Landing page</h3>
-        <li>The landing page will display a picture using method as a hero image.</li>
-        <li>The landing page will provide the user information about the Castle.</li>
-        <li>Image of Landing page</li>
-    <h3>History page</h3>
-        <li>The History page will provide the user information about the Castle's history.</li>
-        <li>The History page will provide the user links to articles and video's about the Castle's history.</li>
-        <li>Image of History page</li>
-    <h3>Confirm page</h3>
+* Has links to the Home, History, Contact pages and is responsive on all device sizes.
+ img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/navbar_readme.jpg" alt="NavBar Readme" title="NavBar Readme">
+ img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/navbar_readmesmall.jpg" alt="NavBar Readme" title="NavBar Readme">
+ * Users will be able to navigate between each page and have the menu the same location on different devices.
+ ### Footer
+* Has links to social media websites, and  that are set to open in a new tab window and Castle contact information.
+* Icon will use visually impaired features like aria labels.
+* Image of Footer
+### 404 page
+* A 404 broken page link page will be created and allow the user to easily navigate back to Home page.
+* Image of 404 page
+### Contact page
+* The contact page will provide the user with a contact form to request additional information.
+* The contact page will also display the Castles address and other information.
+* Image of Contact page
+### Landing page
+* The landing page will display a picture using method as a hero image.
+* The landing page will provide the user information about the Castle.
+* Image of Landing page
+### History page
+* History page will provide the user information about the Castle's history.
+* The History page will provide the user links to articles and video's about the Castle's history.
+* Image of History page
+### Confirm page
         <li>The Confirm page will provide the user with a message about successful submit.</li>
         <li>The Confirm page will provide a thanks and a average response time.</li>
         <li>Image of Confirm page</li>
