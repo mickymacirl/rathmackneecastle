@@ -61,7 +61,7 @@ body {
       text-align: center;
       background: #b29e84;
   }
-  /* Responsive Layout - less than 700px there are two colums in the row that stack on each other */
+  /* Responsive Layout - less than 700px there are two columns in the row that stack on each other */
   @media screen and (max-width: 700px) {
     .row, .navbar {   
       flex-direction: column;
