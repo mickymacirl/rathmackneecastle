@@ -83,6 +83,8 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 https://www.w3schools.com/css/css3_flexbox_responsive.asp</li>
 <h3>W3C School Page Regions</h3>
 <li>Used W3C to create page regions https://www.w3.org/WAI/tutorials/page-structure/regions/</li>
+<h3>Git and GitHub</h3>
+<li>Used W3C Git Tutorial How To's https://www.w3schools.com/git/default.asp?remote=github</li>
 <h3>Content</h3>
 <li>Logo created using Canva and Adobe Photoshop</li>
 <li>Website text content used from Wikipedia https://en.wikipedia.org/wiki/Rathmacknee_Castle</li>
