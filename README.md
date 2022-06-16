@@ -2,7 +2,7 @@
 
 Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle. View the live site: <a href="here.html">here</a></p>
 ## Features of Website
-## Image of Main Site
+### Image of Main Site
 ### NavBar
 * Has links to the Home, History, Contact pages and is responsive on all device sizes.
  img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/navbar_readme.jpg" alt="NavBar Readme" title="NavBar Readme">
