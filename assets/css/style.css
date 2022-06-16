@@ -23,6 +23,12 @@ body {
     text-decoration: none;
     text-align: left;
   }
+  h1, h2 {
+    color:#253439;
+    padding: 0px;
+    text-decoration: none;
+    text-align: left;
+  }
   .navbar a:hover {
     background-color: #253439;
     color: white;
