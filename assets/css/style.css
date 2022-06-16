@@ -1,47 +1,56 @@
 * {
     box-sizing: border-box;
   }
+  /* Styling the body */
 body {
     background-color: white;
     color: #253439;
     font-family: Arial;
     margin: 0;
   }
+  /* Header and Logo */
   .header {
     padding: 10px;
     text-align: center;
     background-color: #253439;
     color: white;
   }
+  /* Styling the navbar */
   .navbar {
     display: flex;
     background-color: #b29e84;
   }
+  /* Styling the navbar a href links */
   .navbar a {
     color: #253439;
     padding: 10px 20px;
     text-decoration: none;
     text-align: left;
   }
+  /* Styling the navbar hover over color */
+  .navbar a:hover {
+    background-color: #253439;
+    color: white;
+  }
+  /* Styling the h1 and h2 elements */
   h1, h2 {
     color:#253439;
     padding: 0px;
     text-decoration: none;
     text-align: left;
   }
-  .navbar a:hover {
-    background-color: #253439;
-    color: white;
-  }
+  /* Column row container */
   .row {
       display: flex;
       flex-wrap: wrap;
   }
+  /* Main column */
   .main {
       flex: 70%;
       background-color:white;
       padding: 20px;
   }
+  /* Side column */
   .side {
       flex: 30%;
       background-color: white;
@@ -52,6 +61,7 @@ body {
       text-align: center;
       background: #b29e84;
   }
+  /* Responsive Layout - less than 700px there are two colums in the row that stack on each other */
   @media screen and (max-width: 700px) {
     .row, .navbar {   
       flex-direction: column;
