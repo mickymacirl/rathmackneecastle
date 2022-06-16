@@ -54,7 +54,9 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
     <h3>CSS</h3>
     <li>The Website was styled by connecting a custom CSS to an external file.</li>
     <h3>Visual Studio Code</h3>
-    <li>The website was developed using Visual Studio Code IDE and Adobe Dreamweaver.</li>
+    <li>The website was developed using Visual Studio Code IDE.</li>
+    <h3>Adobe Dreamweaver</h3>
+    <li>The website tested and designed using Adobe Dreamweaver.</li>
     <h3>GitHub</h3>
     <li>Source code is hosted on GitHub and deployed using Git Pages.</li>
     <h3>Git</h3>
@@ -74,6 +76,8 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 <li></li>
 <h2>Deployment</h2>
 <h2>Credits</h2>
+<h3>Markdown Language</h3>
+<li>Used syntax from Markdown Guide https://www.markdownguide.org/basic-syntax/#headings</li>
 <h3>W3C School Flex Box Responsive</h3>
 <li>Used W3C to create flex box responsive
 https://www.w3schools.com/css/css3_flexbox_responsive.asp</li>
@@ -82,5 +86,5 @@ https://www.w3schools.com/css/css3_flexbox_responsive.asp</li>
 <h3>Content</h3>
 <li>Logo created using Canva and Adobe Photoshop</li>
 <li>Website text content used from Wikipedia https://en.wikipedia.org/wiki/Rathmacknee_Castle</li>
-~~The world is flat~~
+
 
