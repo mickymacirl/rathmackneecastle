@@ -77,9 +77,9 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 ### Version Control
 Both Visual Studio code editor and GitPod were used to created this site and then pushed to the GitHub remote repository named ‘rathmackneecastle’.
 The following commands were used to push code to the remote repository:
-> git add . was used to stage all files for commit changes
-> git commit -m “commit message” was used to add the changes to the local repository for upload during a push
->git git push was used to push all local changes to the remote repository on GitHub.
+git add . was used to stage all files for commit changes
+git commit -m “commit message” was used to add the changes to the local repository for upload during a push
+git git push was used to push all local changes to the remote repository on GitHub.
 ### Deployment to GitHub Pages
 The site was deployed to GitHub Pages. Below are the steps required:
 * In <strong>GitHub</strong>, navigate to your <strong>username.github.io</strong> repository and click <strong>Settings.</strong>
@@ -92,7 +92,7 @@ Go to the page of the repository that you want to clone
 Click on <strong>“Clone or download”</strong> and copy the URL.
 ![Clone Repository](/docs/clone.jpg)
 * Use the git clone command along with the copied URL.
-> $ git clone https://github.com/USERNAME/REPOSITORY
+git clone https://github.com/USERNAME/REPOSITORY
 ## Credits
 ### Markdown Language
 * Used syntax from Markdown Guide https://www.markdownguide.org/basic-syntax/#headings
