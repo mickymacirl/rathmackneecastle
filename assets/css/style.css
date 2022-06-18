@@ -100,7 +100,7 @@ p {
 }
 /* Align social-networks centre */
 #social-networks {
-  text-align: centre;
+  text-align: center;
 }
 
 /* Set inline for li social-networks */
