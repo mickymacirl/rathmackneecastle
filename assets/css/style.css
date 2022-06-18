@@ -52,12 +52,18 @@ body {
       background-color:white;
       padding: 20px;
   }
-  /* Side column */
+    /* Side column */
   .side {
       flex: 30%;
       background-color: white;
       padding: 20px;
   }
+ /* history side bar image */
+.historyimg {
+  background-color: grey;
+  width: 100%;
+  padding: 20px;
+}
   .footer {
       padding: 10px;
       text-align: center;
@@ -69,3 +75,4 @@ body {
       flex-direction: column;
     }
   }
+ 
