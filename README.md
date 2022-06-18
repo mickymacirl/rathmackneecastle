@@ -82,8 +82,10 @@ The following commands were used to push code to the remote repository:
 3. git push was used to push all local changes to the remote repository on GitHub.
 ### Deployment to GitHub Pages
 The site was deployed to GitHub Pages. Below are the steps required:
-* In GitHub, navigate to your <strong>username.github.io</strong> repository and click <strong>Settings.</strong>
-* Within <strong>Settings</strong>, navigate to the <strong>Source</strong> section within the <strong>Github Pages</strong> section. From the dropdown menu, select <strong>master branch</strong> and then click <strong>Save.</strong> 
+* In <strong>GitHub</strong>, navigate to your <strong>username.github.io</strong> repository and click <strong>Settings.</strong>
+* Within <strong>Settings</strong>, navigate to the <strong>Source</strong> section within the <strong>Github Pages</strong> section. From the dropdown menu, select <strong>master branch</strong> and then click <strong>Save.</strong>
+### Deploying New Changes
+Once <strong>GitHub Pages</strong> is setup, normal <strong>GithHub</strong> flow updates the live page.
 ## Credits
 ### Markdown Language
 * Used syntax from Markdown Guide https://www.markdownguide.org/basic-syntax/#headings
