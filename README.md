@@ -101,7 +101,7 @@ View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">h
 
 ### Clone the ‘RathmackneeCastle’ GitHub Code Repository locally
 * Go to the page of the repository that you want to clone
-* Click on <strong>“Clone or download”</strong> and copy the URL.![Clone Repository Copied](/docs/copied.jpg)
+* Click on <strong>“Clone or download”</strong> in the Code menu and copy the URL.![Clone Repository Copied](/docs/copied.jpg)
 
 ![Clone Repository](/docs/clone.jpg)
 
