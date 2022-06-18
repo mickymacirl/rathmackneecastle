@@ -88,8 +88,8 @@ The site was deployed to GitHub Pages. Below are the steps required:
 Once <strong>GitHub Pages</strong> is setup, normal <strong>GithHub</strong> flow updates the live page.
 View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a>
 ### Clone the ‘RathmackneeCastle’ GitHub Code Repository locally
-Go to the page of the repository that you want to clone
-Click on <strong>“Clone or download”</strong> and copy the URL.
+* Go to the page of the repository that you want to clone
+* Click on <strong>“Clone or download”</strong> and copy the URL.
 ![Clone Repository](/docs/clone.jpg)
 * Use the git clone command along with the copied URL.
 git clone https://github.com/USERNAME/REPOSITORY
