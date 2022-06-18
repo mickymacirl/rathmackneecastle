@@ -55,14 +55,14 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 * The Website was styled by connecting a custom CSS to an external file.
 ### Visual Studio Code
 * The website was developed using Visual Studio Code IDE.
-### Adobe Dreamweaver
-* The website tested and designed using Adobe Dreamweaver.
 ### GitHub
 * Source code is hosted on GitHub and deployed using Git Pages.
 ### Git
 * Used to commit and push code during the development of site.
 ### Adobe Photoshop
 * Used Adobe Photop for the hero and logo images.
+### Adobe Dreamweaver
+* The website tested and designed using Adobe Dreamweaver.
 ### balsamiq
 * Created wireframes for this website using balsamiq: https://balsamiq.com/wireframes/desktop/#
 ## Testing
@@ -84,6 +84,9 @@ https://www.w3schools.com/css/css3_flexbox_responsive.asp
 * Used W3C to create page regions https://www.w3.org/WAI/tutorials/page-structure/regions/
 ### Git and GitHub</h3>
 * Used W3C Git Tutorial How To's https://www.w3schools.com/git/default.asp?remote=github
+* Used Github Git-Guides https://github.com/git-guides
+### Version Control
+* Used https://ourcodingclub.github.io/tutorials/git/
 ### Content</h3>
 * Logo created using Canva and Adobe Photoshop
 * Website text content used from Wikipedia https://en.wikipedia.org/wiki/Rathmacknee_Castle
