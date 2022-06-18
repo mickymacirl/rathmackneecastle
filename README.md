@@ -91,7 +91,7 @@ The following commands were used to push code to the remote repository:
 <strong>git push</strong> was used to push all local changes to the remote repository on GitHub.
 
 ### Deployment to GitHub Pages
-The site was deployed to GitHub Pages. 
+The site was deployed to <strong>GitHub Pages.</strong>
 
 Below are the steps required:
 
