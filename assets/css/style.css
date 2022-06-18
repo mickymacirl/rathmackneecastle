@@ -19,7 +19,9 @@ body {
   .navbar {
     display: flex;
     background-color: #b29e84;
-  }
+    text-decoration: none;
+    text-align: left;
+    }
   /* Styling the navbar a href links */
   .navbar a {
     color: #253439;
