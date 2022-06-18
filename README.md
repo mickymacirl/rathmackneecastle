@@ -1,6 +1,6 @@
 # Rathmacknee Castle
 
-Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle. View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a></p>
+Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle. View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a>
 ## Features of Website
 ### Image of Main Site
 ### NavBar
@@ -86,6 +86,7 @@ The site was deployed to GitHub Pages. Below are the steps required:
 * Within <strong>Settings</strong>, navigate to the <strong>Source</strong> section within the <strong>Github Pages</strong> section. From the dropdown menu, select <strong>master branch</strong> and then click <strong>Save.</strong>
 ### Deploying New Changes
 Once <strong>GitHub Pages</strong> is setup, normal <strong>GithHub</strong> flow updates the live page.
+View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a>
 ## Credits
 ### Markdown Language
 * Used syntax from Markdown Guide https://www.markdownguide.org/basic-syntax/#headings
