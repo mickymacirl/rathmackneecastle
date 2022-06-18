@@ -96,7 +96,9 @@ The site was deployed to GitHub Pages. Below are the steps required:
 * Within <strong>Settings</strong>, navigate to the <strong>Source</strong> section within the <strong>Github Pages</strong> section. From the dropdown menu, select <strong>master branch</strong> and then click <strong>Save.</strong>
 ### Deploying New Changes
 Once <strong>GitHub Pages</strong> is setup, normal <strong>GithHub</strong> flow updates the live page.
-* View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a>
+
+View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a>
+
 ### Clone the ‘RathmackneeCastle’ GitHub Code Repository locally
 * Go to the page of the repository that you want to clone
 * Click on <strong>“Clone or download”</strong> and copy the URL.![Clone Repository Copied](/docs/copied.jpg)
