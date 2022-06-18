@@ -89,6 +89,7 @@ p {
 
 .footer {
   padding: 10px;
+  height: 10rem;
   text-align: center;
   background: #b29e84;
   flex-shrink: 0;
@@ -100,6 +101,19 @@ p {
 
 #social-networks > li {
   display: inline;
+}
+
+#social-networks i {
+  font-size: 150%;
+  margin: 1rem;
+  padding: 1rem;
+  color: #b29e84 ;
+}
+
+#social-networks i:hover {
+  color: white;
+  background-color: #253439;
+  border-radius: 3px;
 }
 
 /* Responsive Layout - less than 700px there are two columns in the row that stack on each other */
