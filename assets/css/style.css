@@ -94,6 +94,10 @@ p {
   flex-shrink: 0;
 }
 
+#social-networks {
+  text-align: center;
+}
+
 /* Responsive Layout - less than 700px there are two columns in the row that stack on each other */
 @media screen and (max-width: 700px) {
 
