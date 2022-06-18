@@ -103,9 +103,9 @@ View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">h
 * Go to the page of the repository that you want to clone
 * Click on <strong>“Code”</strong> menu and copy the URL.
 
-![Clone Repository Copied](/docs/copied.jpg)
-
 ![Clone Repository](/docs/clone.jpg)
+
+![Clone Repository Copied](/docs/copied.jpg)
 
 * Use the <strong>git clone</strong> command along with the copied URL.
 * git clone https://github.com/USERNAME/REPOSITORY
