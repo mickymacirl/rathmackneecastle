@@ -37,8 +37,8 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 ![Index Page 320](/docs/Index320.jpg)
 ![Index Page 700](/docs/Index700.jpg)
 #### History Page
-![History Page 320](/docs/History320.jpg320.jpg)
-![History Page 700](/docs/History700.jpgHistory700.jpg)
+![History Page 320](/docs/History320.jpg)
+![History Page 700](/docs/History700.jpg)
 #### Contact Page
 ![Contact Page 320](/docs/Contact320.jpg)
 ![Contact Page 700](/docs/Contact700.jpg)
