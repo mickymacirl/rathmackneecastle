@@ -1,86 +1,102 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0px;
-    border: none;
-  }
-  /* Styling the body */
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0px;
+  border: none;
+}
+
+/* Styling the body */
 body {
-    background-color: white;
-    color: #253439;
-    font-family: 'Montserrat', sans-serif;
-    margin: 0;
-  }
-  /* Header and Logo */
-  .header {
-    padding: 10px;
-    text-align: center;
-    background-color: #253439;
-    color: white;
-  }
-  /* Styling the navbar */
-  .navbar {
-    display: flex;
-    background-color: #b29e84;
-    text-decoration: none;
-    text-align: left;
-    }
-  /* Styling the navbar a href links */
-  .navbar a {
-    color: #253439;
-    padding: 10px 20px;
-    text-decoration: none;
-    text-align: left;
-  }
-  /* Styling the navbar hover over color */
-  .navbar a:hover {
-    background-color: #253439;
-    color: white;
-  }
-  /* Styling the h1 and h2 elements */
-  h1, h2, h3 {
-    color:#253439;
-    padding: 5px;
-    text-decoration: none;
-    text-align: left;
-  }
-  p {
-    padding: 2px;
-  }
-  /* Column row container */
-  .row {
-      display: flex;
-      flex-wrap: wrap;
-  }
-  /* Main column */
-  .main {
-      flex: 70%;
-      background-color:white;
-      padding: 20px;
-  }
-    /* Side column */
-  .side {
-      flex: 30%;
-      background-color: white;
-      padding: 20px;
-  }
- /* history side bar image */
+  background-color: white;
+  color: #253439;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+/* Header and Logo */
+.header {
+  padding: 10px;
+  text-align: center;
+  background-color: #253439;
+  color: white;
+}
+
+/* Styling the navbar */
+.navbar {
+  display: flex;
+  background-color: #b29e84;
+  text-decoration: none;
+  text-align: left;
+}
+
+/* Styling the navbar a href links */
+.navbar a {
+  color: #253439;
+  padding: 10px 20px;
+  text-decoration: none;
+  text-align: left;
+}
+
+/* Styling the navbar hover over color */
+.navbar a:hover {
+  background-color: #253439;
+  color: white;
+}
+
+/* Styling the h1 and h2 elements */
+h1,
+h2,
+h3 {
+  color: #253439;
+  padding: 5px;
+  text-decoration: none;
+  text-align: left;
+}
+
+p {
+  padding: 2px;
+}
+
+/* Column row container */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Main column */
+.main {
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Side column */
+.side {
+  flex: 30%;
+  background-color: white;
+  padding: 20px;
+}
+
+/* history side bar image */
 .historyimg {
   background-color: grey;
   width: 50%;
   padding: 10px;
 }
-  .footer {
-      padding: 10px;
-      text-align: center;
-      background: #b29e84;
+
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: #b29e84;
+}
+
+/* Responsive Layout - less than 700px there are two columns in the row that stack on each other */
+@media screen and (max-width: 700px) {
+
+  .row,
+  .navbar {
+    flex-direction: column;
   }
-  /* Responsive Layout - less than 700px there are two columns in the row that stack on each other */
-  @media screen and (max-width: 700px) {
-    .row, .navbar {   
-      flex-direction: column;
-    }
-  }
- 
+}
