@@ -78,7 +78,7 @@ img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readm
 ### Markdown Language
 * Used syntax from Markdown Guide https://www.markdownguide.org/basic-syntax/#headings
 ### W3C School Flex Box Responsive
-*Used W3C to create flex box responsive
+* Used W3C to create flex box responsive
 https://www.w3schools.com/css/css3_flexbox_responsive.asp
 ### W3C School Page Regions
 * Used W3C to create page regions https://www.w3.org/WAI/tutorials/page-structure/regions/
