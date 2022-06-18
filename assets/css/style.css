@@ -42,7 +42,7 @@ body {
 /* Styling the navbar hover over color */
 .navbar a:hover {
   background-color: #253439;
-  color: white;
+  color: #b29e84;
 }
 
 /* Styling the h1, h2 and h3 elements */
@@ -86,7 +86,7 @@ p {
   width: 50%;
   padding: 10px;
 }
-
+/* footer settings */
 .footer {
   color: #253439;
   padding: 10px;
@@ -98,9 +98,11 @@ p {
 .fa {
   color: #253439;
 }
+
 #social-networks {
   text-align: center;
 }
+
 
 #social-networks > li {
   display: inline;
