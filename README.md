@@ -1,6 +1,6 @@
 # Rathmacknee Castle
 
-Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle. View the live site: <a href="here.html">here</a></p>
+Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle. View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a></p>
 ## Features of Website
 ### Image of Main Site
 ### NavBar

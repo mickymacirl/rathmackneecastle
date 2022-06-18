@@ -3,7 +3,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    padding: 5px;
+    padding: 0px;
     border: none;
   }
   /* Styling the body */
@@ -42,9 +42,12 @@ body {
   /* Styling the h1 and h2 elements */
   h1, h2, h3 {
     color:#253439;
-    padding: 0px;
+    padding: 5px;
     text-decoration: none;
     text-align: left;
+  }
+  p {
+    padding: 2px;
   }
   /* Column row container */
   .row {
@@ -67,7 +70,7 @@ body {
 .historyimg {
   background-color: grey;
   width: 50%;
-  padding: 20px;
+  padding: 10px;
 }
   .footer {
       padding: 10px;
