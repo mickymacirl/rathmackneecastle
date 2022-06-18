@@ -96,7 +96,7 @@ View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">h
 
 ![Clone Repository](/docs/clone.jpg)
 
-* Use the git clone command along with the copied URL.
+* Use the <strong>git clone</strong> command along with the copied URL.
 * git clone https://github.com/USERNAME/REPOSITORY
 ## Credits
 ### Markdown Language
