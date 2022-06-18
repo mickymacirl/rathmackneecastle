@@ -35,7 +35,7 @@ body {
     color: white;
   }
   /* Styling the h1 and h2 elements */
-  h1, h2 {
+  h1, h2, h3 {
     color:#253439;
     padding: 0px;
     text-decoration: none;
