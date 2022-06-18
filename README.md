@@ -5,12 +5,10 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 ### Image of Main Site
 ### NavBar
 * Has links to the Home, History, Contact pages and is responsive on all device sizes.
-
 ![Navbar Readme](/docs/navbar_readme.jpg)
- img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/navbar_readme.jpg" alt="NavBar Readme" title="NavBar Readme">
- img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/navbar_readmesmall.jpg" alt="NavBar Readme" title="NavBar Readme">
- * Users will be able to navigate between each page and have the menu the same location on different devices.
- ### Footer
+![Navbar Readme Responsive](/docs/navbar_readmesmall.jpg)
+* Users will be able to navigate between each page and have the menu the same location on different devices.
+### Footer
 * Has links to social media websites, and  that are set to open in a new tab window and Castle contact information.
 * Icons will use visually impaired features like aria labels.
 * Image of Footer
