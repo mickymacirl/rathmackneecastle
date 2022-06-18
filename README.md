@@ -34,29 +34,19 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 ## Design
 ### Wireframes
 #### Landing Page
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Index320.jpg" alt="Index Page 320" title="Index Page 320">
 ![Index Page 320](/docs/Index320.jpg)
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Index700.jpg" alt="Index Page 320" title="Index Page 700">
 ![Index Page 700](/docs/Index700.jpg)
 #### History Page
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/History320.jpg" alt="History Page 700" title="History Page 320">
 ![History Page 320](/docs/History320.jpg320.jpg)
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/History700.jpg" alt="History Page 700" title="History Page 320">
 ![History Page 700](/docs/History700.jpgHistory700.jpg)
 #### Contact Page
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Contact320.jpg" alt="Contact Page 320" title="Contact Page 320">
 ![Contact Page 320](/docs/Contact320.jpg)
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Contact700.jpg" alt="Contact Page 700" title="Contact Page 700">
 ![Contact Page 700](/docs/Contact700.jpg)
 #### 404 Page
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/404320.jpg" alt="Contact Page 320" title="404 Page 320">
 ![404 Page 320](/docs/404320.jpg)
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/404700.jpg" alt="Contact Page 700" title="404 Page 700">
 ![404 Page 700](/docs/404700.jpg)
 #### Confirm Page
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Confirm320.jpg" alt="Confirm Page 320" title="Confirm Page 320">
 ![Confirm Page 320](/docs/Confirm320.jpg)
-img src="https://github.com/mickymacirl/rathmackneecastle/blob/main/assets/readme/Confirm700.jpg" alt="Confirm Page 700" title="Confirm Page 700">
 ![Confirm Page 320](/docs/Confirm700.jpg)
 ## Technology
 ### HTML
