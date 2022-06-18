@@ -5,7 +5,6 @@
   margin: 0;
   padding: 0px;
   border: none;
-  box-shadow: #253439;
 }
 
 /* Styling the body */
@@ -22,6 +21,7 @@ body {
   text-align: center;
   background-color: #253439;
   color: white;
+  box-shadow: #253439;
 }
 
 /* Styling the navbar */
@@ -58,6 +58,7 @@ h3 {
 
 p {
   padding: 0px;
+  line-height: 1.3rem;
 }
 
 /* Column row container */
