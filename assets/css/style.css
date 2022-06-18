@@ -79,7 +79,7 @@ body {
   }
   /* Responsive Layout - less than 700px there are two columns in the row that stack on each other */
   @media screen and (max-width: 700px) {
-    .row, .navbar {   
+    .row, nav, header, footer {   
       flex-direction: column;
     }
   }
