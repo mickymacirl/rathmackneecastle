@@ -5,7 +5,7 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 ### Image of Main Site
 ### NavBar
 * Has links to the Home, History, Contact pages and t is responsive on all device sizes.
-<p>![Navbar Readme](/docs/navbar_readme.jpg)</p>
+![Navbar Readme](/docs/navbar_readme.jpg)
 ![Navbar Readme Responsive](/docs/navbar_readmesmall.jpg)
 * Users will be able to navigate between each page and have the menu the same location on different devices.
 ### Footer
