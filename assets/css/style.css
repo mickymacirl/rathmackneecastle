@@ -94,27 +94,27 @@ p {
   background: #b29e84;
   flex-shrink: 0;
 }
-
+/* Set fa icon color */
 .fa {
   color: #253439;
 }
-
+/* Align social-networks centre */
 #social-networks {
-  text-align: center;
+  text-align: centre;
 }
 
-
+/* Set inline for li social-networks */
 #social-networks > li {
   display: inline;
 }
-
+/* Set font size color social-networks */
 #social-networks i {
   font-size: 150%;
   margin: 2rem;
   padding: 2rem;
   color: #253439;
 }
-
+/* Set i:hover social-networks */
 #social-networks i:hover {
   color: #b29e84;
   background-color: #253439;
