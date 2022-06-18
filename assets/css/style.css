@@ -90,6 +90,7 @@ p {
   padding: 10px;
   text-align: center;
   background: #b29e84;
+  flex-shrink: 0;
 }
 
 /* Responsive Layout - less than 700px there are two columns in the row that stack on each other */
