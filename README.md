@@ -92,15 +92,15 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 ### CSS
 * The Website was styled by connecting a custom CSS to an external file.
 ### Visual Studio Code
-* The website was developed using Visual Studio Code IDE.
+* The website was developed using *[Visual Studio](https://visualstudio.microsoft.com/)* Code IDE.
 ### GitHub
-* Source code is hosted on GitHub and deployed using Git Pages.
+* Source code is hosted on *[GitHub](https://github.com/)* and deployed using *[GitPages](https://pages.github.com/).
 ### Git
-* Used to commit and push code during the development of site.
+* Used *[Git](https://git-scm.com/)* to commit and push code during the development of site.
 ### Adobe Photoshop
-* Used Adobe Photop for the hero and logo images.
+* Used *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)* for the hero and logo images.
 ### Adobe Dreamweaver
-* The website tested and designed using Adobe Dreamweaver.
+* The website tested and designed using *[Adobe Dreamweaver](https://www.adobe.com/products/dreamweaver.html)*.
 ### Google Fonts
 * This website uses *[Google Fonts](https://fonts.google.com/)*.
 ### Font Awesome Icons
