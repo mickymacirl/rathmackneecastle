@@ -2,7 +2,8 @@
 
 Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle. 
 
-View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a>
+View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
+
 ## Features of Website
 ### Image of Main Site
 ### NavBar
@@ -151,7 +152,7 @@ Below are the steps required:
 ### Deploying New Changes
 Once **GitHub Pages** is setup, normal **GithHub** flow updates the live page.
 
-View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a>
+View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ### Clone the ‘RathmackneeCastle’ GitHub Code Repository locally
 
@@ -176,12 +177,11 @@ https://www.w3schools.com/css/css3_flexbox_responsive.asp
 ### W3C School Page Regions
 * Used W3C to create page regions https://www.w3.org/WAI/tutorials/page-structure/regions/
 ### Git and GitHub
-* Used W3C Git Tutorial How To's https://www.w3schools.com/git/default.asp?remote=github
-* Used Github Git-Guides https://github.com/git-guides
+* Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
+* Used *[GitHub Git-Guides](https://github.com/git-guides)* for reference. 
 ### Version Control
-* Used GitHub.io How To's https://ourcodingclub.github.io/tutorials/git/
+* Used *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/* How To's for reference
 ### Content
-* Logo created using Canva and Adobe Photoshop
-* Website text content used from Wikipedia https://en.wikipedia.org/wiki/Rathmacknee_Castle
-
+* Logo created using *[Canva](https://www.canva.com/)* and *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)*.
+* Website text content used from *[Wikipedia](https://en.wikipedia.org/wiki/Rathmacknee_Castle)*
 
