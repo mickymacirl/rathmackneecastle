@@ -59,9 +59,9 @@ The icons for social media are from the Font Awesome library.  Choosing the squa
 
 ### Fonts
 
-I've made the decision to use the imported Montserrat typeface from Google Fonts. https://fonts.adobe.com/fonts/montserrat#details-section
+I've made the decision to use the imported *[Montserrat](https://fonts.adobe.com/fonts/montserrat#details-section)* typeface from Google Fonts. 
 
-I chose this typeface because, in my opinion, it blends nicely with the website's design and complements the font used in the logo which is Anton. https://fonts.adobe.com/fonts/anton
+I chose this typeface because, in my opinion, it blends nicely with the website's design and complements the font used in the logo which is *[Anton](https://fonts.adobe.com/fonts/anton)*. 
 
 ### Montserrat
 
