@@ -2,7 +2,7 @@
 
 Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle.
 
-This website will provide information on the castle in the townsland of Rathmacknee in Wexford, Ireland. This site will give the information about the history of the castle, links to social media accounts and a contact form to contact the castle owners,
+This website will provide information on the castle in the townsland of Rathmacknee in Wexford, Ireland. This site will give the information about the history of the castle, links to social media accounts and a contact form to contact the castle owners.
 
 
 View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
@@ -170,6 +170,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * git clone https://github.com/USERNAME/REPOSITORY
 
 ## Credits
+* Mentor support from *[Daisy McGirr](https://github.com/Daisy-McG)*.
 ### CSS Tricks
 * Used *[CSS Tricks](https://css-tricks.com/)* for How's To's on CSS for reference.
 ### Markdown Language
