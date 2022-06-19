@@ -54,7 +54,7 @@ The dark green is used as a background and text color which contrasts well with 
 
 The icons for social media are from the Font Awesome library.  Choosing the square option when available. 
 
-![Montserrat Font](/docs/socialicons.jpg)
+![Social Media Icons](/docs/sc1.jpg)
 
 ### Fonts
 
