@@ -115,34 +115,36 @@ Both Visual Studio code editor and GitPod were used to created this site and the
 
 The following commands were used to push code to the remote repository:
 
-** git add .** was used to stage all files for commit changes
+*git add .* was used to stage all files for commit changes
 
-** git commit -m “commit message”** was used to add the changes to the local repository for upload during a push
+*git commit -m “commit message”* was used to add the changes to the local repository for upload during a push
 
-<strong>git push</strong> was used to push all local changes to the remote repository on GitHub.
+*git push* was used to push all local changes to the remote repository on GitHub.
 
 ### Deployment to GitHub Pages
-The site was deployed to <strong>GitHub Pages.</strong>
+The site was deployed to **GitHub Pages**.>
 
 Below are the steps required:
 
-* In <strong>GitHub</strong>, navigate to your <strong>username.github.io</strong> repository and click <strong>Settings.</strong>
-* Within <strong>Settings</strong>, navigate to the <strong>Source</strong> section within the <strong>Github Pages</strong> section. From the dropdown menu, select <strong>master branch</strong> and then click <strong>Save.</strong>
+* In **GitHub**, navigate to your **username.github.io** repository and click **Settings**.
+* Within **Settings**, navigate to the **Source** section within the **Github Pages** section. From the dropdown menu, select **master branch** and then click **Save**.
 ### Deploying New Changes
-Once <strong>GitHub Pages</strong> is setup, normal <strong>GithHub</strong> flow updates the live page.
+Once **GitHub Pages** is setup, normal **GithHub** flow updates the live page.
 
 View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">here</a>
 
 ### Clone the ‘RathmackneeCastle’ GitHub Code Repository locally
+
 * Go to the page of the repository that you want to clone
-* Click on <strong>“Code”</strong> menu and copy the URL.
+* Click on **“Code”** menu and copy the URL.
 
 ![Clone Repository](/docs/clone.jpg)
 
 ![Clone Repository Copied](/docs/copied.jpg)
 
-* Use the <strong>git clone</strong> command along with the copied URL.
+* Use the **git clone** command along with the copied URL.
 * git clone https://github.com/USERNAME/REPOSITORY
+
 ## Credits
 ### Markdown Language
 * Used syntax from Markdown Guide https://www.markdownguide.org/basic-syntax/#headings
@@ -151,12 +153,12 @@ View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">h
 https://www.w3schools.com/css/css3_flexbox_responsive.asp
 ### W3C School Page Regions
 * Used W3C to create page regions https://www.w3.org/WAI/tutorials/page-structure/regions/
-### Git and GitHub</h3>
+### Git and GitHub
 * Used W3C Git Tutorial How To's https://www.w3schools.com/git/default.asp?remote=github
 * Used Github Git-Guides https://github.com/git-guides
 ### Version Control
 * Used GitHub.io How To's https://ourcodingclub.github.io/tutorials/git/
-### Content</h3>
+### Content
 * Logo created using Canva and Adobe Photoshop
 * Website text content used from Wikipedia https://en.wikipedia.org/wiki/Rathmacknee_Castle
 
