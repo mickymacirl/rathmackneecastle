@@ -35,7 +35,9 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Contact page
 * The contact page will provide the user with a contact form to request additional information.
 * The contact page will also display the Castles address and other information.
-* Image of Contact page
+
+![Contact Us Page](/docs/contactus.jpg)
+
 ### Landing page
 * The landing page will display a picture using method as a hero image.
 * The landing page will provide the user information about the Castle.
