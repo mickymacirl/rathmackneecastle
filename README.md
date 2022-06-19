@@ -9,12 +9,18 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ## Features of Website
 ### Image of Main Site
+
+### Header
+* Has a Header with the Castle logo centered and it is reponsive on all device sizes.
+
+![Headers](/docs/header.jpg)
+
 ### NavBar
 * Has links to the Home, History, Contact pages and it is responsive on all device sizes.
 
-#### ![Navbar Readme](/docs/navbar_readme.jpg)
+![Navbar Readme](/docs/navbar_readme.jpg)
 
-#### ![Navbar Readme Responsive](/docs/navbar_readmesmall.jpg)
+![Navbar Readme Responsive](/docs/navbar_readmesmall.jpg)
 
 * Users will be able to navigate between each page and have the menu the same location on different devices.
 ### Footer
