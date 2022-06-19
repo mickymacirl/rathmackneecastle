@@ -102,11 +102,11 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 ### Adobe Dreamweaver
 * The website tested and designed using Adobe Dreamweaver.
 ### Google Fonts
-* This website uses Google Fonts. https://fonts.google.com/
-### Font Awesome
-* This website uses Font Awesome Icons. https://fontawesome.com/
+* This website uses *[Google Fonts](https://fonts.google.com/)*.
+### Font Awesome Icons
+* This website uses *[Font Awesome Icons](https://fontawesome.com/)*.
 ### balsamiq
-* Created wireframes for this website using balsamiq: https://balsamiq.com/wireframes/desktop/#
+* Created wireframes for this website using *[balsamiq](https://balsamiq.com/wireframes/desktop/#/)*. 
 ## Testing
 ### Responsiveness
 * Pages were tested on various different screen sizes from 320px on a Android S20, Samsung fold 2, iPhone 12 and a wide screen Windows machine.
@@ -128,8 +128,6 @@ The navigation links on each page were used to do this and were successful.
 Validated the correct Meta Data information using *[Meta Tag Analyzer](https://www.internetmarketingninjas.com/tools/webpage-meta-analyzer/)*. 
 
 ![Meta Data](/docs/metadata.jpg)
-
-
 
 ## Deployment
 ### Version Control
