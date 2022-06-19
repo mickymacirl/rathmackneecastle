@@ -144,6 +144,16 @@ input[type=submit]:hover {
   flex-shrink: 0;
 }
 
+/* Hero Image */
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("castle.jpg");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 /* Set fa icon color */
 .fa {
   color: #253439;
