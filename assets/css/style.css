@@ -105,8 +105,8 @@ input[type=submit] {
 
 /* Styling the submit hover over */
 input[type=submit]:hover {
-  color: #b29e84;
   background-color: #253439;
+  color: #b29e84;
 }
 
 /* Styling contact container */
