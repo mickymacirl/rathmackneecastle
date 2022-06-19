@@ -138,11 +138,19 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 4.	Click and drag browser window to lower or higher window size.
 
 **Expected:**
+
 The website is responsive on all sizes and no pixelation is accruing. No overlap of text or images.
 
 **Actual:**
 
 The website behaved as expected, issue with the center of text in the confirm.html page on a larger browser window of 700px. Bug listed in the unfixed bug section.
+
+The website was testing on the following devices, with no resizing issues seen:
+
+* Samsung fold 2
+* iPhone 11
+* Samsung Galaxy Tab
+* Nexus 7 with Kali Linux
 
 ## Accessibility
 ## Lighthouse Testing
