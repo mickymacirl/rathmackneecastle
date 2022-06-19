@@ -127,7 +127,7 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 * Created wireframes for this website using *[balsamiq](https://balsamiq.com/wireframes/desktop/#/)*. 
 ## Testing
 ### Responsiveness
-* Pages were tested on various different screen sizes from 320px on a Android S20, Samsung fold 2, iPhone 12 and a wide screen Windows machine.
+* Pages were tested on various different screen sizes from 320px on a Samsung fold 2, iPhone 11, Samung Galaxy Tab, Nexus 7 and a wide screen Windows machine.
 * Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
 
 **Test Steps:**
@@ -151,6 +151,7 @@ The website was testing on the following devices, with no resizing issues seen:
 * iPhone 11
 * Samsung Galaxy Tab
 * Nexus 7 with Kali Linux
+* Wide screen 4k monitor
 
 ## Accessibility
 ## Lighthouse Testing
