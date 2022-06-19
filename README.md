@@ -114,10 +114,18 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 ## Accessibility
 ## Lighthouse Testing
 ## Functional Testing
+### Navigation Links Testing
+
+Testing was done to make sure all navigation links led to the intended pages on their respective pages.
+
+The navigation links on each page were used to do this and were successful.
+
+
+
 ## Validator Testing
 ### Meta Tags
 
-Validated the correct Meta Data information using Meta Tag Analyzer. https://www.internetmarketingninjas.com/tools/webpage-meta-analyzer/
+Validated the correct Meta Data information using *[Meta Tag Analyzer](https://www.internetmarketingninjas.com/tools/webpage-meta-analyzer/)*. 
 
 ![Meta Data](/docs/metadata.jpg)
 
