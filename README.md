@@ -4,12 +4,11 @@ Rathmacknee Castle is a website that allows users to have a place to find intere
 
 This website will provide information on the castle in the townsland of Rathmacknee in Wexford, Ireland. This site will give the information about the history of the castle, links to social media accounts and a contact form to contact the castle owners.
 
+![Multi Mockup](/docs/multi.jpg)
 
 View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ## Features of Website
-
-![Multi Mockup](/docs/multi.jpg)
 
 ### Header
 * Has a Header with the Castle logo centered and it is reponsive on all device sizes.
