@@ -88,13 +88,13 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 ![Confirm Page 320](/docs/Confirm700.jpg)
 ## Technology
 ### HTML
-* The main lanuagage of this Website was developed using HTML.
+* The main lanuagage of this Website was developed using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
 ### CSS
-* The Website was styled by connecting a custom CSS to an external file.
+* The Website was styled by connecting a custom *[CSS](https://en.wikipedia.org/wiki/CSS)* to an external file.
 ### Visual Studio Code
 * The website was developed using *[Visual Studio](https://visualstudio.microsoft.com/)* Code IDE.
 ### GitHub
-* Source code is hosted on *[GitHub](https://github.com/)* and deployed using *[GitPages](https://pages.github.com/).
+* Source code is hosted on *[GitHub](https://github.com/)* and deployed using *[GitPages](https://pages.github.com/)*.
 ### Git
 * Used *[Git](https://git-scm.com/)* to commit and push code during the development of site.
 ### Adobe Photoshop
@@ -166,6 +166,8 @@ View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">h
 * git clone https://github.com/USERNAME/REPOSITORY
 
 ## Credits
+### CSS Tricks
+* Used CSS Tricks for How's To's on CSS. https://css-tricks.com/
 ### Markdown Language
 * Used syntax from Markdown Guide https://www.markdownguide.org/basic-syntax/#headings
 ### W3C School Flex Box Responsive
