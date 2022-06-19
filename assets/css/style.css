@@ -12,7 +12,7 @@ body {
   background-color: #ffffff;
   color: #253439;
   font-family: 'Montserrat', sans-serif;
-  margin: 5;
+  margin: 5px;
 }
 
 /* Header and Logo */
@@ -85,7 +85,7 @@ p {
 input[type=text],
 select,
 textarea {
-  width: 100;
+  width: 100%;
   padding: 12px;
   border: 1px solid #ffffff;
   border-radius: 4px;
