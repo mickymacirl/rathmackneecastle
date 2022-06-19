@@ -223,8 +223,13 @@ Validated the correct Meta Data information using *[Meta Tag Analyzer](https://w
 
 ![Meta Data](/docs/metadata.jpg)
 
+### Bug and Issues
+
+When a user browses to the confirm.html web page on a device with more than 700px, the success message doesn't center to the middle of the screen. I wasn't able to find a fix for this bug. 
+
 ## Deployment
 ### Version Control
+
 Both Visual Studio code editor and GitPod were used to created this site and then pushed to the GitHub remote repository named ‘rathmackneecastle’.
 
 The following commands were used to push code to the remote repository:
