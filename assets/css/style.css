@@ -79,11 +79,11 @@ p {
   background-color: #ffffff;
   padding: 10px;
 }
+
 /* Contact Form container */
 .container {
   border-radius: 5px;
-  background-color: #ffffff
-  padding: 20px;
+  background-color: #ffffff padding: 20px;
 }
 
 /* history side bar image */
@@ -92,6 +92,7 @@ p {
   width: 50%;
   padding: 10px;
 }
+
 /* footer settings */
 .footer {
   color: #253439;
@@ -100,19 +101,22 @@ p {
   background: #b29e84;
   flex-shrink: 0;
 }
+
 /* Set fa icon color */
 .fa {
   color: #253439;
 }
+
 /* Align social-networks centre */
 #social-networks {
   text-align: center;
 }
 
 /* Set inline for li social-networks */
-#social-networks > li {
+#social-networks>li {
   display: inline;
 }
+
 /* Set font size color social-networks */
 #social-networks i {
   font-size: 150%;
@@ -120,6 +124,7 @@ p {
   padding: 2rem;
   color: #253439;
 }
+
 /* Set i:hover social-networks */
 #social-networks i:hover {
   color: #b29e84;
