@@ -27,6 +27,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Footer
 * Has links to social media websites, and that are set to open in a new tab window.
 * Icons will use visually impaired features like aria labels.
+* Users will be able to find social media links while in every page as they are a part of the footer of the site.
 
 ![Footer](/docs/footer.jpg)
 
