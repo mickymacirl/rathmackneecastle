@@ -32,7 +32,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### 404 page
 * A 404 broken page link page will be created and allow the user to easily navigate back to Home page.
 
-
+![404 Page](/docs/404page.jpg)
 
 ### Contact page
 * The contact page will provide the user with a contact form to request additional information.
