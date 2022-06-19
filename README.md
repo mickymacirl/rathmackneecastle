@@ -154,13 +154,65 @@ The website was testing on the following devices, with no resizing issues seen:
 * Wide screen 4k monitor
 
 ## Accessibility
+
+
+
 ## Lighthouse Testing
+
+
+
 ## Functional Testing
+
 ### Navigation Links Testing
 
 Testing was done to make sure all navigation links led to the intended pages on their respective pages.
 
 The navigation links on each page were used to do this and were successful.
+
+### Form Testing
+
+The Contact form was tested so that when a user clicks on submit the action directs to the confirm.html web page with a success message.
+
+**Test Steps:** 
+
+1.	Open the corresponding browser and open Rathmacknee Castle site.
+2.	Open the browser and navigate to the Contact page.
+3.	Enter details in the First Name, Last Name, Email and the Subject fields.
+4.	Click the Submit button.
+5.  The user should be redirected to the contact.html page with the success message being displayed.
+
+**Expected:**
+
+The user should be redirected to the confirm.html page with the success message being displayed.
+
+**Actual:**
+
+The website redirected the user to the confirm.html page with the success message being displayed.
+
+### Font Awesome Icon Testing:
+
+The Font Awesome Icons in the footer were tested to make sure each icon link opened in a new tab and that the color of the hover over matched the color scheme of the website logo and navbar.
+
+When clicked each of the links opened in a new browser and each of the icons color changes happened successfully.
+
+### 404 Page Testing
+
+If the user tries to access a missing or broken link on the site, the 404 page should display offering the user a way to click to return to the home page while maintaining the look and feel of the website.
+
+**Test Steps:**
+
+1. Open a browser and enter the url of the contact page.
+2. Modify the url of the page and remove the second t in the contact.html page url, so trying to call the contac.html page.
+3. Click the enter button.
+4. The user should be redirected to the 404.html page with a link back to the home page while maintaining the look and feel of the webite.
+
+**Expected:**
+
+The user should be redirected to the 404.html page when an incorrect page call is submitted.
+
+**Actual:**
+
+The user is redirected to the 404.html page when an incorrect page call is submitted.
 
 ## Validator Testing
 ### Meta Tags
