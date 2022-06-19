@@ -38,7 +38,7 @@ View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">h
  * Image of Confirm page
 ## Design
 ### Colors
-![Colors](/docs/colors.jpg)
+![Colors](/docs/color.jpg)
 
 Using the color palette from the logo, which I generated from an image of the castle using the eye dropper in Adobe Photoshop, the dark green and a lighter brown fit each other well.
 
