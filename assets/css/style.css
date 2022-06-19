@@ -12,11 +12,7 @@ body {
   background-color: #ffffff;
   color: #253439;
   font-family: 'Montserrat', sans-serif;
-  margin: 5px;
-  background-image:url('../images/bg.png'); 
-  background-repeat:no-repeat;
-  background-size: 100% 100%; 
-  background-position:center;
+  margin: 0px;
 }
 
 /* Header and Logo */
