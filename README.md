@@ -145,7 +145,7 @@ The website is responsive on all sizes and no pixelation is accruing. No overlap
 
 **Actual:**
 
-The website behaved as expected, issue with the center of text in the confirm.html page on a larger browser window of 700px. Bug listed in the unfixed bug section.
+The website behaved as expected, issue with the center of text in the confirm.html page on a larger browser window of 700px. This issue is listed in the Bugs and Issues section below.
 
 The website was testing on the following devices, with no resizing issues seen:
 
