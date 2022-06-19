@@ -79,6 +79,12 @@ p {
   background-color: #ffffff;
   padding: 10px;
 }
+/* Contact Form container */
+.contactcontainer {
+  border-radius: 5px;
+  background-color: #ffffff
+  padding: 20px;
+}
 
 /* history side bar image */
 .historyimg {
