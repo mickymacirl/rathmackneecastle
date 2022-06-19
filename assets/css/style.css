@@ -54,10 +54,20 @@ h3 {
   text-decoration: none;
   text-align: left;
 }
-
+/* Styling p */
 p {
   padding: 10px;
   line-height: 1.3rem;
+}
+/* Style main text */
+.smallermain {
+font-size: 80%;
+display: block;
+margin-top: 1em;
+text-align: left;
+margin-bottom: 1em;
+margin-left: 0;
+margin-right: 0;
 }
 
 /* Column row container */
