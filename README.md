@@ -129,6 +129,21 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 ### Responsiveness
 * Pages were tested on various different screen sizes from 320px on a Android S20, Samsung fold 2, iPhone 12 and a wide screen Windows machine.
 * Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
+
+**Test Steps:**
+
+1.	Open the corresponding browser and open Rathmacknee Castle site.
+2.	Open the browser develop tools by hitting the corresponding dev tools short cut.
+3.	Resize to the desired width.
+4.	Click and drag browser window to lower or higher window size.
+
+**Expected:**
+The website is responsive on all sizes and no pixelation is accruing. No overlap of text or images.
+
+**Actual:**
+
+The website behaved as expected, issue with the center of text in the confirm.html page on a larger browser window of 700px. Bug listed in the unfixed bug section.
+
 ## Accessibility
 ## Lighthouse Testing
 ## Functional Testing
