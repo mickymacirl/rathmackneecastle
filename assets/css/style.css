@@ -9,7 +9,7 @@
 
 /* Styling the body */
 body {
-  background-color: white;
+  background-color: #ffffff;
   color: #253439;
   font-family: 'Montserrat', sans-serif;
   margin: 0;
@@ -20,7 +20,7 @@ body {
   padding: 10px;
   text-align: center;
   background-color: #253439;
-  color: white;
+  color: #ffffff;
 }
 
 /* Styling the navbar */
@@ -69,15 +69,15 @@ p {
 /* Main column */
 .main {
   flex: 70%;
-  background-color: white;
+  background-color: #ffffff;
   padding: 20px;
 }
 
 /* Side column */
 .side {
   flex: 30%;
-  background-color: white;
-  padding: 20px;
+  background-color: #ffffff;
+  padding: 10px;
 }
 
 /* history side bar image */
