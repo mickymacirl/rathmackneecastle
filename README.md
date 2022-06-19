@@ -169,6 +169,8 @@ The website was testing on the following devices, with no resizing issues seen:
 
 Testing was done to make sure all navigation links led to the intended pages on their respective pages.
 
+![Navigation Links Testing](/docs/links.jpg)
+
 The navigation links on each page were used to do this and were successful.
 
 ### Form Testing
