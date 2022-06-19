@@ -37,6 +37,29 @@ View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">h
  * The Confirm page will provide a thanks and a average response time.
  * Image of Confirm page
 ## Design
+### Colors
+![Colors](/docs/colors.jpg)
+
+Using the color palette from the logo, which I generated from an image of the castle using the eye dropper in Adobe Photoshop, the dark green and a lighter brown fit each other well.
+
+The dark green is used as a background and text color which contrasts well with the lighter brown of the navbar and footer. The main background is white, which makes the text content easier to read. 
+
+#b29e84 light brown– Color used for navbar background, footer background, navbar hover over text color and font awesome hover over text color.
+
+#253439 dark green – Color used for Logo background, navbar hover over, font awesome hover over and main body text color.
+
+#ffffff white – Color used for elements of Logo and for main body background color.
+
+### Social Media Icons
+
+The icons for social media are from the Font Awesome library.  Choosing the square option when available. 
+
+### Font
+
+I've made the decision to use the imported Montserrat typeface from Google Fonts. https://fonts.adobe.com/fonts/montserrat#details-section
+
+I chose this typeface because, in my opinion, it blends nicely with the website's design and complements the font used in the logo which is Anton. https://fonts.adobe.com/fonts/anton
+
 ### Wireframes
 #### Landing Page
 ![Index Page 320](/docs/Index320.jpg)
