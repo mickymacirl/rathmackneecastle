@@ -171,7 +171,7 @@ Testing was done to make sure all navigation links led to the intended pages on 
 
 ![Navigation Links Testing](/docs/links.jpg)
 
-The navigation links on each page were used to do this and were successful.
+The navigation links on the navbar on each page were used to do this and were successful.
 
 ### Form Testing
 
