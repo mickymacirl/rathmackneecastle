@@ -191,6 +191,8 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Git and GitHub
 * Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
 * Used *[GitHub Git-Guides](https://github.com/git-guides)* for reference. 
+### Multi Device Website Mockup Generator
+* Used *[Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php)* to create mutli device mockup.
 ### Version Control
 * Used *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
 ### Content
