@@ -113,7 +113,7 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 * Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
 ## Accessibility
 ## Lighthouse Testing
-## Funcational Testing
+## Functional Testing
 ## Validator Testing
 ### Meta Tags
 
