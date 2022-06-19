@@ -51,7 +51,9 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Confirm page
  * The Confirm page will provide the user with a message about successful submit.
  * The Confirm page will provide a thanks and a average response time.
- * Image of Confirm page
+ 
+![Confirm Page](/docs/confirmpage.jpg)
+
 ## Design
 ### Colors
 ![Colors](/docs/color.jpg)
