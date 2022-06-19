@@ -170,6 +170,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * git clone https://github.com/USERNAME/REPOSITORY
 
 ## Credits
+### Mentor Support
 * Mentor support from *[Daisy McGirr](https://github.com/Daisy-McG)*.
 ### CSS Tricks
 * Used *[CSS Tricks](https://css-tricks.com/)* for How's To's on CSS for reference.
