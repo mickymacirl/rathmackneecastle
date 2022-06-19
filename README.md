@@ -44,11 +44,11 @@ Using the color palette from the logo, which I generated from an image of the ca
 
 The dark green is used as a background and text color which contrasts well with the lighter brown of the navbar and footer. The main background is white, which makes the text content easier to read. 
 
-#b29e84 light brown– Color used for navbar background, footer background, navbar hover over text color and font awesome hover over text color.
+*#b29e84 light brown* - Color used for navbar background, footer background, navbar hover over text color and font awesome hover over text color.
 
-#253439 dark green – Color used for Logo background, navbar hover over, font awesome hover over and main body text color.
+*#253439 dark green* – Color used for Logo background, navbar hover over, font awesome hover over and main body text color.
 
-#ffffff white – Color used for elements of Logo and for main body background color.
+*#ffffff white* – Color used for elements of Logo and for main body background color.
 
 ### Social Media Icons
 
@@ -122,7 +122,7 @@ The following commands were used to push code to the remote repository:
 *git push* was used to push all local changes to the remote repository on GitHub.
 
 ### Deployment to GitHub Pages
-The site was deployed to **GitHub Pages**.>
+The site was deployed to **GitHub Pages**.
 
 Below are the steps required:
 
