@@ -115,9 +115,9 @@ Both Visual Studio code editor and GitPod were used to created this site and the
 
 The following commands were used to push code to the remote repository:
 
-<strong>git add .</strong> was used to stage all files for commit changes
+** git add .** was used to stage all files for commit changes
 
-<strong>git commit -m “commit message”</strong> was used to add the changes to the local repository for upload during a push
+** git commit -m “commit message”** was used to add the changes to the local repository for upload during a push
 
 <strong>git push</strong> was used to push all local changes to the remote repository on GitHub.
 
