@@ -168,20 +168,18 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ## Credits
 ### CSS Tricks
-* Used CSS Tricks for How's To's on CSS. https://css-tricks.com/
+* Used *[CSS Tricks](https://css-tricks.com/)* for How's To's on CSS for reference.
 ### Markdown Language
-* Used syntax from Markdown Guide https://www.markdownguide.org/basic-syntax/#headings
+* Used syntax from *[Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings)* for reference.
 ### W3C School Flex Box Responsive
-* Used W3C to create flex box responsive
-https://www.w3schools.com/css/css3_flexbox_responsive.asp
+* Used *[W3C School Flex Box Reponsive](https://www.w3schools.com/css/css3_flexbox_responsive.asp)* to create flex box responsive pages.
 ### W3C School Page Regions
-* Used W3C to create page regions https://www.w3.org/WAI/tutorials/page-structure/regions/
+* Used *[W3C School Page Regions](https://www.w3.org/WAI/tutorials/page-structure/regions/)* to create page regions.
 ### Git and GitHub
 * Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
 * Used *[GitHub Git-Guides](https://github.com/git-guides)* for reference. 
 ### Version Control
-* Used *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/* How To's for reference
+* Used *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
 ### Content
 * Logo created using *[Canva](https://www.canva.com/)* and *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)*.
 * Website text content used from *[Wikipedia](https://en.wikipedia.org/wiki/Rathmacknee_Castle)*
-
