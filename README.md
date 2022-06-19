@@ -12,17 +12,18 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ### Header
 * Has a Header with the Castle logo centered and it is reponsive on all device sizes.
+* This will allow the user to go home to the main page as the Logo is directed to index.html.
 
 ![Headers](/docs/header.jpg)
 
 ### NavBar
 * Has links to the Home, History, Contact pages and it is responsive on all device sizes.
+* Users will be able to navigate between each page of the site, having consistant menu placement on the different screen sizes.
 
 ![Navbar Readme](/docs/navbar_readme.jpg)
 
 ![Navbar Readme Responsive](/docs/navbar_readmesmall.jpg)
 
-* Users will be able to navigate between each page and have the menu the same location on different devices.
 ### Footer
 * Has links to social media websites, and that are set to open in a new tab window.
 * Icons will use visually impaired features like aria labels.
@@ -31,12 +32,14 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ### 404 page
 * A 404 broken page link page will be created and allow the user to easily navigate back to Home page.
+* Users will still keep the look and feel of the website, with a easy to see return to Home page link.
 
 ![404 Page](/docs/404page.jpg)
 
 ### Contact page
 * The contact page will provide the user with a contact form to request additional information.
-* The contact page will also display the Castles address and other information.
+* Users will fill out a form with a submit button, seeking First Name, Last Name, Email Address and a Subject text field.
+* Users will recieve a successful message on submit button press.
 
 ![Contact Us Page](/docs/contactuspage.jpg)
 
