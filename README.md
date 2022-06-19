@@ -108,13 +108,21 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 ### balsamiq
 * Created wireframes for this website using balsamiq: https://balsamiq.com/wireframes/desktop/#
 ## Testing
-## Responsiveness
+### Responsiveness
 * Pages were tested on various different screen sizes from 320px on a Android S20, Samsung fold 2, iPhone 12 and a wide screen Windows machine.
 * Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
 ## Accessibility
 ## Lighthouse Testing
 ## Funcational Testing
 ## Validator Testing
+### Meta Tags
+
+Validated the correct Meta Data information using Meta Tag Analyzer. https://www.internetmarketingninjas.com/tools/webpage-meta-analyzer/
+
+![Meta Data](/docs/metadata.jpg)
+
+
+
 ## Deployment
 ### Version Control
 Both Visual Studio code editor and GitPod were used to created this site and then pushed to the GitHub remote repository named ‘rathmackneecastle’.
