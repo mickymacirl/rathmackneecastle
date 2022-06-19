@@ -128,7 +128,7 @@ https://www.w3schools.com/css/css3_flexbox_responsive.asp
 * Used W3C Git Tutorial How To's https://www.w3schools.com/git/default.asp?remote=github
 * Used Github Git-Guides https://github.com/git-guides
 ### Version Control
-* Used https://ourcodingclub.github.io/tutorials/git/
+* Used GitHub.io How To's https://ourcodingclub.github.io/tutorials/git/
 ### Content</h3>
 * Logo created using Canva and Adobe Photoshop
 * Website text content used from Wikipedia https://en.wikipedia.org/wiki/Rathmacknee_Castle
