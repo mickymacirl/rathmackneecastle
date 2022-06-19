@@ -15,9 +15,11 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 * Users will be able to navigate between each page and have the menu the same location on different devices.
 ### Footer
-* Has links to social media websites, and  that are set to open in a new tab window and Castle contact information.
+* Has links to social media websites, and that are set to open in a new tab window.
 * Icons will use visually impaired features like aria labels.
-* Image of Footer
+
+![Footer](/docs/footer.jpg)
+
 ### 404 page
 * A 404 broken page link page will be created and allow the user to easily navigate back to Home page.
 * Image of 404 page
@@ -120,8 +122,6 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 Testing was done to make sure all navigation links led to the intended pages on their respective pages.
 
 The navigation links on each page were used to do this and were successful.
-
-
 
 ## Validator Testing
 ### Meta Tags
