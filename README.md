@@ -127,8 +127,10 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 * Created wireframes for this website using *[balsamiq](https://balsamiq.com/wireframes/desktop/#/)*. 
 ## Testing
 ### Responsiveness
-* Pages were tested on various different screen sizes from 320px on a Samsung fold 2, iPhone 11, Samung Galaxy Tab, Nexus 7 and a wide screen Windows machine.
-* Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
+
+Pages were tested on various different screen sizes from 320px on a Samsung fold 2, iPhone 11, Samung Galaxy Tab, Nexus 7 and a wide screen Windows machine.
+
+Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
 
 **Test Steps:**
 
@@ -189,7 +191,7 @@ The user should be redirected to the confirm.html page with the success message 
 
 The website redirected the user to the confirm.html page with the success message being displayed.
 
-### Font Awesome Icon Testing:
+### Font Awesome Icon Testing
 
 The Font Awesome Icons in the footer were tested to make sure each icon link opened in a new tab and that the color of the hover over matched the color scheme of the website logo and navbar.
 
