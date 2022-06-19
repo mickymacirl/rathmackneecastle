@@ -8,7 +8,8 @@ This website will provide information on the castle in the townsland of Rathmack
 View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ## Features of Website
-### Image of Main Site
+
+![Multi Mockup](/docs/multi.jpg)
 
 ### Header
 * Has a Header with the Castle logo centered and it is reponsive on all device sizes.
