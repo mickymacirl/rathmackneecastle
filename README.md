@@ -68,6 +68,10 @@ View the live site: <a href="https://mickymacirl.github.io/rathmackneecastle/">h
 * Used Adobe Photop for the hero and logo images.
 ### Adobe Dreamweaver
 * The website tested and designed using Adobe Dreamweaver.
+### Google Fonts
+* This website uses Google Fonts. https://fonts.google.com/
+### Font Awesome
+* This website uses Font Awesome Icons. https://fontawesome.com/
 ### balsamiq
 * Created wireframes for this website using balsamiq: https://balsamiq.com/wireframes/desktop/#
 ## Testing
