@@ -63,13 +63,13 @@ p {
 
 /* Style main smaller text */
 .smallermain {
-font-size: 80%;
-display: block;
-margin-top: 0;
-text-align: left;
-margin-bottom: 0;
-margin-left: 0;
-margin-right: 0;
+  font-size: 80%;
+  display: block;
+  margin-top: 0;
+  text-align: left;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 /* Styling center text */
@@ -130,8 +130,8 @@ input[type=submit]:hover {
 
 /* Styling contact container */
 .contact-container {
-  max-width: 60vw;
   background-color: #dcdcdc;
+  max-width: 60vw;
   border-radius: 5px;
   margin: auto;
   padding: 10px;
