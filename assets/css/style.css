@@ -24,7 +24,7 @@ body {
 }
 
 /* Styling the navbar */
-.nav {
+#navbar {
   display: flex;
   background-color: #b29e84;
   text-decoration: none;
@@ -32,7 +32,7 @@ body {
 }
 
 /* Styling the navbar a href links */
-.nav a {
+#navbar a {
   color: #253439;
   padding: 10px 20px;
   text-decoration: none;
@@ -40,7 +40,7 @@ body {
 }
 
 /* Styling the navbar hover over color */
-.nav a:hover {
+#navbar a:hover {
   background-color: #253439;
   color: #b29e84;
 }
