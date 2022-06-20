@@ -180,9 +180,10 @@ input[type=submit]:hover {
 
 /* Set font size color social-networks */
 #social-networks i {
+  display: flex;
   font-size: 150%;
-  margin: 2rem;
-  padding: 2rem;
+  margin: 1rem;
+  padding: 1rem;
   color: #253439;
 }
 
