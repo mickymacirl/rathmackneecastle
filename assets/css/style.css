@@ -131,7 +131,7 @@ input[type=submit]:hover {
 
 /* Styling contact container */
 .contact-container {
-  max-width: 60vw;
+  max-width: 90vw;
   border-radius: 5px;
   background-color: #dcdcdc;
   margin: auto;
@@ -202,8 +202,8 @@ input[type=submit]:hover {
     flex-direction: column;
   }
 }
-/* Responsive Layout - max of 320px there two columns in row the row that stack on each other */
+/* Responsive Layout - max of 320px there two columns in row that stack on each other */
 @media screen and (max-width: 320px) {
-  .row {width: 70%;}
+  .row {width: 100%;}
   .nav {width: 70%;}
 }
