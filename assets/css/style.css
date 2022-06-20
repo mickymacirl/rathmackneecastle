@@ -85,7 +85,7 @@ p {
 
 /* Main column */
 .main {
-  min-height: calc(100vh - 70px);
+  min-height: calc(10vh - 70px);
   flex: 70%;
   background-color: #ffffff;
   padding: 1px;
