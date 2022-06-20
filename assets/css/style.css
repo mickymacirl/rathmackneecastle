@@ -131,7 +131,10 @@ input[type=submit]:hover {
 /* Styling contact container */
 .contact-container {
   max-width: 60vw;
+  background-color: #dcdcdc;
+  border-radius: 5px;
   margin: auto;
+  padding: 10px;
 }
 
 /* history side bar image */
