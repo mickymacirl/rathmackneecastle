@@ -205,5 +205,5 @@ input[type=submit]:hover {
 /* Responsive Layout - max of 320px there two columns in row that stack on each other */
 @media screen and (min-width: 320px) {
   .row {width: 100%;}
-  .nav {width: 70%;}
+  .nav {width: 100%;}
 }
