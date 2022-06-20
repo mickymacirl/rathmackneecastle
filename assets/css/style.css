@@ -212,4 +212,9 @@ input[type=submit]:hover {
   .nav {
     width: 100%;
   }
+
+  .header {
+    width: 100%;
+  }
 }
+
