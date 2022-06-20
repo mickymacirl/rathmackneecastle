@@ -202,3 +202,8 @@ input[type=submit]:hover {
     flex-direction: column;
   }
 }
+/* Responsive Layout - max of 320px there two columns in row the row that stack on each other */
+@media screen and (max-width: 320px) {
+  .row {width: 70%;}
+  .nav {width: 70%;}
+}
