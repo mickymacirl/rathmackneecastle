@@ -285,6 +285,8 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * Used *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* to create contact form.
 ### W3C School Responsive Web Design - Images
 * Used *[W3C School Responsive Web Design - Images](https://www.w3schools.com/Css/css_rwd_images.asp)* to create hero image.
+### W3C School HTML Semantic Elements
+*Used *[W3C School HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp) to add semantic html.
 ### CSS Sticky Footer
 * Used calc from *[Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)* for footer.
 ### Git and GitHub
