@@ -24,7 +24,7 @@ body {
 }
 
 /* Styling the navbar */
-.navbar {
+.nav {
   display: flex;
   background-color: #b29e84;
   text-decoration: none;
@@ -32,7 +32,7 @@ body {
 }
 
 /* Styling the navbar a href links */
-.navbar a {
+.nav a {
   color: #253439;
   padding: 10px 20px;
   text-decoration: none;
@@ -40,7 +40,7 @@ body {
 }
 
 /* Styling the navbar hover over color */
-.navbar a:hover {
+.nav a:hover {
   background-color: #253439;
   color: #b29e84;
 }
@@ -198,7 +198,7 @@ input[type=submit]:hover {
 @media screen and (max-width: 700px) {
 
   .row,
-  .navbar {
+  .nav {
     flex-direction: column;
   }
 }
