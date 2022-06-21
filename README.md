@@ -53,7 +53,9 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### History page
 * History page will provide the user information about the Castle's history.
 * The History page will provide the user links to articles and video's about the Castle's history.
-* Image of History page
+
+![History Page](/docs/history.jpg)
+
 ### Confirm page
  * The Confirm page will provide the user with a message about successful submit.
  * The Confirm page will provide a thanks and a average response time.
