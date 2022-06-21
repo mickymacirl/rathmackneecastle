@@ -64,6 +64,7 @@ p {
 /* Style main smaller text */
 .smallermain {
   font-size: 85%;
+  max-width: 80%;
   display: inline-block;
   margin-top: 4px;
   text-align: left;
@@ -75,6 +76,7 @@ p {
 /* Style picture text history */
 .smallerpichis {
   font-size: 75%;
+  max-width: 80%;
   display: inline-block;
   margin-top: 4px;
   text-align: left;
