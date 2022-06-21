@@ -327,4 +327,5 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * Used *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
 ### Content
 * Logo created using *[Canva](https://www.canva.com/)* and *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)*.
+* Pictures taken by me on a Samsung fold 2 *[Samsung fold 2](https://www.samsung.com/ie/smartphones/galaxy-z-fold2/)* and editted for web in *[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)*.
 * Website text content used from *[Wikipedia](https://en.wikipedia.org/wiki/Rathmacknee_Castle)*
