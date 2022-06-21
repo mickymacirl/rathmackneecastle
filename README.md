@@ -154,13 +154,29 @@ The website is responsive on all sizes and no pixelation is accruing. No overlap
 
 The website behaved as expected, issue with the center of text in the confirm.html page on a larger browser window of 700px. This issue is listed in the Bugs and Issues section below.
 
-The website was testing on the following devices, with no resizing issues seen:
+The website was tested on the following physical devices, with no resizing issues seen:
 
 * Samsung fold 2
 * iPhone 11
 * Samsung Galaxy Tab
 * Nexus 7 with Kali Linux
 * Wide screen 4k monitor
+
+The website was tested on the following screen sizes using Chrome Dev tools and Unicorn Revealer:
+
+* iPhone SE
+* iPhone XR
+* iPhone 12 PRO
+* Pixel 5
+* Samsung Galaxy S8+
+* Samsung Galaxy S20 Ultra
+* iPad Air
+* iPad Mini
+* Surface Pro 7
+* Surface Duo
+* Samsung Galaxy A51/71
+* Nest Hub
+* Nest Hub Max
 
 ## Accessibility
 
@@ -292,6 +308,10 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * Used *[W3C School HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)* to add semantic html.
 ### CSS Sticky Footer
 * Used calc from *[Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)* for footer.
+### Unicorn Revealer
+* Used *[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)* to troubleshoot lay out and responsiveness.
+### Chrome Dev Tools
+* Used *[Chrome Dev tools](https://developers.google.com/web/tools)* to to debug code and troubleshoot lay out and responsiveness. 
 ### Git and GitHub
 * Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
 * Used *[GitHub Git-Guides](https://github.com/git-guides)* for reference. 
