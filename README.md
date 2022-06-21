@@ -260,6 +260,14 @@ Validated the correct Meta Data information using *[Meta Tag Analyzer](https://w
 
 ![Meta Data](/docs/metadata.jpg)
 
+### W3C HTML Validator Testing
+
+![HTML Validator Results](/docs/htmlvalchecker.jpg)
+
+### W3C JIGSAW Validator Testing
+
+![CSS Validator Results](/docs/cssvalchecker.jpg.jpg)
+
 ### Bug and Issues
 
 ~~When a user browses to the confirm.html web page on a device with more than 700px, the success message doesn't center to the middle of the screen.~~ Fixed by setting p tag style to center. 
