@@ -208,8 +208,8 @@ input[type=submit]:hover {
   border-radius: 3px;
 }
 
-/* Responsive Layout - less than 600px there are two columns in the row that stack on each other */
-@media screen and (max-width: 600px) {
+/* Responsive Layout - less than 700px there are two columns in the row that stack on each other */
+@media screen and (max-width: 700px) {
 
   .row,
   .nav {
