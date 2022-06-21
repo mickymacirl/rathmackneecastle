@@ -113,9 +113,9 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 ![Confirm Page 320](/docs/Confirm700.jpg)
 ## Technology
 ### HTML
-* The main lanuagage of this Website was developed using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
+* The main lanuagage of this website was developed using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
 ### CSS
-* The Website was styled by connecting a custom *[CSS](https://en.wikipedia.org/wiki/CSS)* to an external file.
+* The website was styled by connecting a custom *[CSS](https://en.wikipedia.org/wiki/CSS)* to an external file.
 ### Visual Studio Code
 * The website was developed using *[Visual Studio](https://visualstudio.microsoft.com/)* Code IDE.
 ### GitHub
