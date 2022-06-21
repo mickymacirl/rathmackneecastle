@@ -11,13 +11,13 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ## Features of Website
 
 ### Header
-* Has a Header with the Castle logo centered and it is reponsive on all device sizes.
+* The website a Header with the Castle logo centered and it is reponsive on all device sizes.
 * This will allow the user to go home to the main page as the Logo is directed to index.html.
 
 ![Headers](/docs/header.jpg)
 
 ### NavBar
-* Has links to the Home, History, Contact pages and it is responsive on all device sizes.
+* The navigation links to the Home, History, Contact pages and it is responsive on all device sizes.
 * Users will be able to navigate between each page of the site, having consistant menu placement on the different screen sizes.
 
 ![Navbar Readme](/docs/navbar_readme.jpg)
@@ -25,15 +25,15 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ![Navbar Readme Responsive](/docs/navbar_readmesmall.jpg)
 
 ### Footer
-* Has links to social media websites, and that are set to open in a new tab window.
+* The footer links to social media websites, and that are set to open in a new tab window.
 * Icons will use visually impaired features like aria labels.
 * Users will be able to find social media links while in every page as they are a part of the footer of the site.
 
 ![Footer](/docs/footer.jpg)
 
 ### 404 page
-* A 404 broken page link page will be created and allow the user to easily navigate back to Home page.
-* Users will still keep the look and feel of the website, with a easy to see return to Home page link.
+* A 404 broken page will be created and allow the user to easily navigate back to home page.
+* Users will still keep the look and feel of the website, with a easy to see return to home page link in the center of the screen.
 
 ![404 Page](/docs/404page.jpg)
 
