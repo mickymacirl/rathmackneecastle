@@ -250,7 +250,7 @@ Validated the correct Meta Data information using *[Meta Tag Analyzer](https://w
 
 ### Bug and Issues
 
-~~ When a user browses to the confirm.html web page on a device with more than 700px, the success message doesn't center to the middle of the screen. I wasn't able to find a fix for this bug.~~ Fixed by setting p tag style to center. 
+~~When a user browses to the confirm.html web page on a device with more than 700px, the success message doesn't center to the middle of the screen. I wasn't able to find a fix for this bug.~~ Fixed by setting p tag style to center. 
 
 ## Deployment
 
