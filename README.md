@@ -142,7 +142,7 @@ Pages were tested on most modern browsers including Microsoft Edge, Chrome, Fire
 **Test Steps:**
 
 1.	Open the corresponding browser and open Rathmacknee Castle site.
-2.	Open the browser develop tools by hitting the corresponding dev tools short cut.
+2.	Open the browser developments tools by hitting the corresponding dev tools short cut.
 3.	Resize to the desired width.
 4.	Click and drag browser window to lower or higher window size.
 
