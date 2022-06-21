@@ -266,7 +266,7 @@ Validated the correct Meta Data information using *[Meta Tag Analyzer](https://w
 
 ### W3C JIGSAW Validator Testing
 
-![CSS Validator Results](/docs/cssvalchecker.jpg.jpg)
+![CSS Validator Results](/docs/cssvalchecker.jpg)
 
 ### Bug and Issues
 
