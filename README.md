@@ -184,7 +184,15 @@ The website was tested on the following screen sizes using Chrome Dev tools and 
 
 ## Lighthouse Testing
 
+Using the lighthouse extension on Google Chrome browser to test the website for performance, accessibility, best practices and SEO.
 
+### Desktop Testing
+
+![Desktop Lighthouse Testing](/docs/desktoplhr.jpg)
+
+### Mobile Testing
+
+![Mobile Lighthouse Testing](/docs/mobilelhr.jpg)
 
 ## Functional Testing
 
