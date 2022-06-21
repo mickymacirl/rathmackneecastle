@@ -47,7 +47,9 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Landing page
 * The landing page will display a picture using method as a hero image for screen sizes of more than 700px.
 * The landing page will provide the user information about the Castle, with the site log, navbar and footer layout.
-* Image of Landing page
+
+![Landing Page](/docs/404page.jpg)
+
 ### History page
 * History page will provide the user information about the Castle's history.
 * The History page will provide the user links to articles and video's about the Castle's history.
