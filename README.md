@@ -262,9 +262,7 @@ A repository called 'rathmackneecastle' was created using the *[Code Institute G
 
 Both Visual Studio code editor and GitPod were used to created this site and then pushed to the GitHub remote repository named ‘rathmackneecastle’.
 
- 
-
-The following commands were used to push code to the remote repository:
+ The following commands were used to push code to the remote repository:
 
 *git add .* was used to stage all files for commit changes
 
