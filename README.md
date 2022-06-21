@@ -152,7 +152,7 @@ The website is responsive on all sizes and no pixelation is accruing. No overlap
 
 **Actual:**
 
-The website behaved as expected, issue with the center of text in the confirm.html page on a larger browser window of 700px. This issue is listed in the Bugs and Issues section below.
+The website behaved as expected, with an initial issue with the center of text in the confirm.html page on a screen size of 700px. This issue is listed in the Bugs and Issues section below as being solved. 
 
 The website was tested on the following physical devices, with no resizing issues seen:
 
@@ -271,6 +271,7 @@ Both Visual Studio code editor and GitPod were used to created this site and the
 *git push* was used to push all local changes to the remote repository on GitHub.
 
 ### Deployment to GitHub Pages
+
 The site was deployed to **GitHub Pages**.
 
 Below are the steps required:
