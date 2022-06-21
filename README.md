@@ -256,7 +256,7 @@ When a user browses to the confirm.html web page on a device with more than 700p
 
 ### Template
 
-A repository called 'Rathmacknee Castle' was created using the *[Code Institute GitPod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template)*.
+A repository called 'rathmackneecastle' was created using the *[Code Institute GitPod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template)*.
 
 ### Version Control
 
