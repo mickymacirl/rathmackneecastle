@@ -188,9 +188,11 @@ The *[WAVE Evaluation Website](https://wave.webaim.org/)* tool was used througho
 
 Testing produced an alert on each page, this is due to an adjacent link on the logo and the navbar both going to index.html. The introduction of the link on the Logo generated this error but I believe as the site grows, and from other popular sites, multiple ways to go home can be useful to the user of the site. 
 
+![Wave Results](/docs/waveresults.jpg)
+
 On the History Page, the 3 Youtube video links have generated 3 alerts in relation Youtube Captions being not ideal when using a screen reader. I could not find a fix for this. 
 
-![Wave Results](/docs/waveresults.jpg)
+![Wave Results](/docs/waveyoutuberesults.jpg)
 
 ## Lighthouse Testing
 
