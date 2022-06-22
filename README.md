@@ -40,7 +40,6 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Contact page
 * The contact page will provide the user with a contact form to request additional information.
 * Users will fill out a form with a submit button, seeking First Name, Last Name, Email Address and a Subject text field.
-* Users will recieve a successful message on submit button press.
 
 ![Contact Us Page](/docs/contactuspage.jpg)
 
@@ -59,6 +58,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Confirm page
  * The Confirm page will provide the user with a message about successful submit.
  * The Confirm page will provide a thanks and a average response time.
+ * Users will recieve a successful message on submit button press. The POST in the form is going to *[Code Institute Form Dump](https://formdump.codeinstitute.net/)*. Click *[Contact Page](contact.html)* to see the Confirm Message.
  
 ![Confirm Page](/docs/confirmpage.jpg)
 
