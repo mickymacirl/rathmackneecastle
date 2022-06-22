@@ -196,6 +196,7 @@ div.gallery {
 /* Set history gallery hover*/
 div.gallery:hover {
   border: 1px solid #b29e84;
+  opacity:0.4;
 }
 
 /* Set history gallery img  */
