@@ -236,6 +236,46 @@ The user should be redirected to the confirm.html page with the success message 
 
 The website redirected the user to the confirm.html page with the success message being displayed.
 
+### History Gallery Testing
+
+#### Gallery Image Links
+
+The History Gallery links was tested so that when a user links on a picture the link opens the image in a new window.
+
+**Test Steps:** 
+
+1.	Open the corresponding browser and open Rathmacknee Castle site.
+2.	Navigate to the History page link.
+3.	Click on the corresponding image.
+4.  A new browser window should open with the clicked image.
+
+**Expected:**
+
+A new browser window should open with the corresponding clicked image.
+
+**Actual:**
+
+A new browser window opened with the corresponding clicked image.
+
+#### Gallery Image Hover Over
+
+The History Gallery hover over was tested so that when a user hovers over the image, it should change opacity.
+
+**Test Steps:** 
+
+1.	Open the corresponding browser and open Rathmacknee Castle site.
+2.	Navigate to the History page link.
+3.	Hover Over the corresponding image.
+4.  The opacity of the corresponding image should lighten.
+
+**Expected:**
+
+The opacity of the corresponding image will lighten.
+
+**Actual:**
+
+The opacity of the corresponding image lightened. 
+
 ### Font Awesome Icon Testing
 
 The Font Awesome Icons in the footer were tested to make sure each icon link opened in a new tab and that the color of the hover over matched the color scheme of the website logo and navbar.
