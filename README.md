@@ -11,14 +11,14 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ## Features of Website
 
 ### Header
-* The website a Header with the Castle logo centered and it is reponsive on all device sizes.
+* The website a Header with the Castle logo centered and it is responsive on all device sizes.
 * This will allow the user to go home to the main page as the Logo is directed to index.html.
 
 ![Headers](/docs/header.jpg)
 
 ### NavBar
 * The navigation links to the Home, History, Contact pages and it is responsive on all device sizes.
-* Users will be able to navigate between each page of the site, having consistant menu placement on the different screen sizes.
+* Users will be able to navigate between each page of the site, having consistent menu placement on the different screen sizes.
 
 ![Navbar Readme](/docs/navbar_readme.jpg)
 
@@ -58,7 +58,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Confirm page
  * The Confirm page will provide the user with a message about successful submit.
  * The Confirm page will provide a thanks and a average response time.
- * Users will recieve a successful message on submit button press. The POST in the form is going to *[Code Institute Form Dump](https://formdump.codeinstitute.net/)*. Click *[Confirm Page](https://mickymacirl.github.io/rathmackneecastle/confirm.html)* to see the Confirm Message.
+ * Users will receive a successful message on submit button press. The POST in the form is going to *[Code Institute Form Dump](https://formdump.codeinstitute.net/)*. Click *[Confirm Page](https://mickymacirl.github.io/rathmackneecastle/confirm.html)* to see the Confirm Message.
  
 ![Confirm Page](/docs/confirmpage.jpg)
 
@@ -117,7 +117,7 @@ I chose this typeface because, in my opinion, it blends nicely with the website'
 ![Confirm Page 320](/docs/Confirm700.jpg)
 ## Technology
 ### HTML
-* The main lanuagage of this website was developed using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
+* The main language of this website was developed using *[HTML](https://en.wikipedia.org/wiki/HTML)*.
 ### CSS
 * The website was styled by connecting a custom *[CSS](https://en.wikipedia.org/wiki/CSS)* to an external file.
 ### Visual Studio Code
@@ -190,7 +190,7 @@ Testing produced an alert on each page, this is due to an adjacent link on the l
 
 ![Wave Results](/docs/waveresults.jpg)
 
-On the History Page, the 3 Youtube video links have generated 3 alerts in relation Youtube Captions being not ideal when using a screen reader. I could not find a fix for this. 
+On the History Page, the 3 YouTube video links have generated 3 alerts in relation YoTube Captions being not ideal when using a screen reader. I could not find a fix for this. 
 
 ![Wave Results](/docs/waveyoutuberesults.jpg)
 
@@ -288,10 +288,10 @@ If the user tries to access a missing or broken link on the site, the 404 page s
 
 **Test Steps:**
 
-1. Open a browser and enter the url of the contact page.
-2. Modify the url of the page and remove the second t in the contact.html page url, so trying to call the contac.html page.
+1. Open a browser and enter the URL of the contact page.
+2. Modify the URL of the page and remove the second t in the contact.html page URL, so trying to call the contac.html page.
 3. Click the enter button.
-4. The user should be redirected to the 404.html page with a link back to the home page while maintaining the look and feel of the webite.
+4. The user should be redirected to the 404.html page with a link back to the home page while maintaining the look and feel of the website.
 
 **Expected:**
 
@@ -371,13 +371,13 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Markdown Language
 * Used syntax from *[Markdown Guide](https://www.markdownguide.org/basic-syntax/#headings)* for reference.
 ### W3C School Flex Box Responsive
-* Used *[W3C School Flex Box Reponsive](https://www.w3schools.com/css/css3_flexbox_responsive.asp)* to create flex box responsive pages.
+* Used *[W3C School Flex Box Responsive](https://www.w3schools.com/css/css3_flexbox_responsive.asp)* to create flex box responsive pages.
 ### W3C School Page Regions
 * Used *[W3C School Page Regions](https://www.w3.org/WAI/tutorials/page-structure/regions/)* to create page regions.
 ### W3C School Contact Form
 * Used *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* to create contact form.
 ### Code Insitute Form Dump
-* USed *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate contact form.
+* Used *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate contact form.
 ### W3C School Responsive Web Design - Images
 * Used *[W3C School Responsive Web Design - Images](https://www.w3schools.com/Css/css_rwd_images.asp)* to create hero image.
 ### W3C School HTML Semantic Elements
@@ -387,12 +387,12 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Unicorn Revealer
 * Used *[Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)* to troubleshoot lay out and responsiveness.
 ### Chrome Dev Tools
-* Used *[Chrome Dev tools](https://developers.google.com/web/tools)* to to debug code and troubleshoot lay out and responsiveness. 
+* Used *[Chrome Dev tools](https://developers.google.com/web/tools)* to debug code and troubleshoot lay out and responsiveness. 
 ### Git and GitHub
 * Used *[W3C Git Tutorial](https://www.w3schools.com/git/default.asp?remote=github)* for reference.
 * Used *[GitHub Git-Guides](https://github.com/git-guides)* for reference. 
 ### Multi Device Website Mockup Generator
-* Used *[Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php)* to create mutli device mockup.
+* Used *[Multi Device Website Mockup Generator](https://techsini.com/multi-mockup/index.php)* to create mutli-device mockup.
 ### Version Control
 * Used *[GitHub.io](https://ourcodingclub.github.io/tutorials/git/)* How To's for reference.
 ### Content
