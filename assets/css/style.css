@@ -188,14 +188,14 @@ input[type=submit]:hover {
 div.gallery {
   font-size: smaller;
   margin: 5px;
-  border: 1px solid #b29e84;
+  border: 1px solid #253439;
   float: left;
   width: 180px;
 }
 
 /* Set history gallery hover*/
 div.gallery:hover {
-  border: 1px solid #253439;
+  border: 1px solid #b29e84;
 }
 
 /* Set history gallery img  */
