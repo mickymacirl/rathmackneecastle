@@ -184,7 +184,13 @@ The website was tested on the following screen sizes using Chrome Dev tools and 
 
 ## Accessibility
 
+The *[WAVE Evaluation Website](https://wave.webaim.org/)* tool was used throughout the development of the site and checked at the final stages to ensure the highest possible level of accessibility that meet Web Content Accessibility Guidelines (WCAG).
 
+Testing produced an alert on each page, this is due to an adjacent link on the logo and the navbar both going to index.html. The introduction of the link on the Logo generated this error but I believe as the site grows, and from other popular sites, multiple ways to go home can be useful to the user of the site. 
+
+On the History Page, the 3 Youtube video links have generated 3 alerts in relation Youtube Captions being not ideal when using a screen reader. I could not find a fix for this. 
+
+![Wave Results](/docs/waveresults.jpg)
 
 ## Lighthouse Testing
 
