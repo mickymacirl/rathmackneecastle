@@ -39,7 +39,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ### Contact page
 * The contact page will provide the user with a contact form to request additional information.
-* Users will fill out a form with a submit button, seeking First Name, Last Name, Email Address and a Subject text field.
+* Users will fill out a form with a submit button, seeking First Name, Last Name, and a Subject text field.
 
 ![Contact Us Page](/docs/contactuspage.jpg)
 
