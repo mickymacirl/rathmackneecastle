@@ -240,7 +240,7 @@ The website redirected the user to the confirm.html page with the success messag
 
 #### Gallery Image Links
 
-The History Gallery links was tested so that when a user links on a picture the link opens the image in a new window.
+The History Gallery links was tested so that when a user clicks on a picture the link opens the image in a new window.
 
 **Test Steps:** 
 
