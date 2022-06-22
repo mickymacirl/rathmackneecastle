@@ -58,7 +58,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ### Confirm page
  * The Confirm page will provide the user with a message about successful submit.
  * The Confirm page will provide a thanks and a average response time.
- * Users will recieve a successful message on submit button press. The POST in the form is going to *[Code Institute Form Dump](https://formdump.codeinstitute.net/)*. Click *[Contact Page](contact.html)* to see the Confirm Message.
+ * Users will recieve a successful message on submit button press. The POST in the form is going to *[Code Institute Form Dump](https://formdump.codeinstitute.net/)*. Click *[Confirm Page](https://mickymacirl.github.io/rathmackneecastle/confirm.html)* to see the Confirm Message.
  
 ![Confirm Page](/docs/confirmpage.jpg)
 
