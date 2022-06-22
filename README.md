@@ -218,6 +218,8 @@ The navigation links on the navbar on each page were used to do this and were su
 
 ### Form Testing
 
+#### Form Submit
+
 The Contact form was tested so that when a user clicks on submit the action directs to the confirm.html web page with a success message.
 
 **Test Steps:** 
@@ -235,6 +237,25 @@ The user should be redirected to the confirm.html page with the success message 
 **Actual:**
 
 The website redirected the user to the confirm.html page with the success message being displayed.
+
+#### Form Validation
+
+The Contact form was tested so that when a user tries to submit a blank form, the form should fail to submit with "Please fill out this field" message.
+
+**Test Steps:** 
+
+1.	Open the corresponding browser and open Rathmacknee Castle site.
+2.	Navigate to the Contact page using the Contact link.
+3.	Click the Submit button.
+
+**Expected:**
+
+The form should display the the message "Please fill out this field".
+
+**Actual:**
+
+The form displayed the the message "Please fill out this field".
+
 
 ### History Gallery Testing
 
@@ -275,6 +296,25 @@ The opacity of the corresponding image will lighten.
 **Actual:**
 
 The opacity of the corresponding image lightened. 
+
+#### Gallery Image Responiveness
+
+The History Gallery responiveness was tested so that when a user changes window resolution, the gallery should follow the row and column rules, and sit to the bottom of the page on 320px devices and to the right on 700px or more.
+
+**Test Steps:** 
+
+1.	Open the corresponding browser and open Rathmacknee Castle site.
+2.	Navigate to the History page link.
+3.  Open the corresponding dev tools.
+3.	Resize the browser window to the corresponding resolution.
+
+**Expected:**
+
+The gallery images should sit to the bottom of the page on 320px devices and to the right on 700px or more.
+
+**Actual:**
+
+The gallery images sit to the bottom of the page on 320px devices and to the right on 700px or more.
 
 ### Font Awesome Icon Testing
 
