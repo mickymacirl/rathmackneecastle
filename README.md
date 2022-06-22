@@ -190,7 +190,7 @@ Testing produced an alert on each page, this is due to an adjacent link on the l
 
 ![Wave Results](/docs/waveresults.jpg)
 
-On the History Page, the 3 YouTube video links have generated 3 alerts in relation YoTube Captions being not ideal when using a screen reader. I could not find a fix for this. 
+On the History Page, the 3 YouTube video links have generated 3 alerts in relation YouTube Captions being not ideal when using a screen reader. I could not find a fix for this. 
 
 ![Wave Results](/docs/waveyoutuberesults.jpg)
 
