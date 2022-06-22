@@ -65,7 +65,7 @@ p {
 .smallermain {
   font-size: 85%;
   max-width: 700px;
-  display: inline-block;
+  display: flex;
   margin-top: 4px;
   text-align: left;
   margin-bottom: 0;
@@ -77,7 +77,7 @@ p {
 .smallerpichis {
   font-size: 75%;
   max-width: 700px;
-  display: inline-block;
+  display: flex;
   margin-top: 4px;
   text-align: left;
   margin-bottom: 0;
