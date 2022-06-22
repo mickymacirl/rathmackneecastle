@@ -184,6 +184,32 @@ input[type=submit]:hover {
   color: #253439;
 }
 
+/* Set history gallery */
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+/* Set history gallery hover*/
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+/* Set history gallery img  */
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+/* Set history gallery desc*/
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
 /* Align social-networks centre */
 #social-networks {
   text-align: center;
