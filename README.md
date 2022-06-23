@@ -8,6 +8,88 @@ This website will provide information on the castle in the townsland of Rathmack
 
 View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
+# Table of Contents
+
+- [Rathmacknee Castle](#rathmacknee-castle)
+  * [Features of Website](#features-of-website)
+    + [Header](#header)
+    + [NavBar](#navbar)
+    + [Footer](#footer)
+    + [404 page](#404-page)
+    + [Contact page](#contact-page)
+    + [Landing page](#landing-page)
+    + [History page](#history-page)
+    + [Confirm page](#confirm-page)
+    + [Features to be Added](#features-to-be-added)
+  * [Design](#design)
+    + [Colors](#colors)
+    + [Social Media Icons](#social-media-icons)
+    + [Fonts](#fonts)
+    + [Montserrat](#montserrat)
+    + [Anton](#anton)
+    + [Wireframes](#wireframes)
+      - [Landing Page](#landing-page)
+      - [History Page](#history-page)
+      - [Contact Page](#contact-page)
+      - [404 Page](#404-page)
+      - [Confirm Page](#confirm-page)
+  * [Technology](#technology)
+    + [HTML](#html)
+    + [CSS](#css)
+    + [Visual Studio Code](#visual-studio-code)
+    + [GitHub](#github)
+    + [Git](#git)
+    + [Adobe Photoshop](#adobe-photoshop)
+    + [Adobe Dreamweaver](#adobe-dreamweaver)
+    + [Google Fonts](#google-fonts)
+    + [Font Awesome Icons](#font-awesome-icons)
+    + [balsamiq](#balsamiq)
+  * [Testing](#testing)
+    + [Responsiveness](#responsiveness)
+  * [Accessibility](#accessibility)
+  * [Lighthouse Testing](#lighthouse-testing)
+    + [Desktop Testing](#desktop-testing)
+    + [Mobile Testing](#mobile-testing)
+  * [Functional Testing](#functional-testing)
+    + [Navigation Links Testing](#navigation-links-testing)
+    + [Form Testing](#form-testing)
+      - [Form Submit](#form-submit)
+      - [Form Validation](#form-validation)
+    + [History Gallery Testing](#history-gallery-testing)
+      - [Gallery Image Links](#gallery-image-links)
+      - [Gallery Image Hover Over](#gallery-image-hover-over)
+      - [Gallery Image Responiveness](#gallery-image-responiveness)
+    + [Font Awesome Icon Testing](#font-awesome-icon-testing)
+    + [404 Page Testing](#404-page-testing)
+  * [Validator Testing](#validator-testing)
+    + [Meta Tags](#meta-tags)
+    + [W3C HTML Validator Testing](#w3c-html-validator-testing)
+    + [W3C JIGSAW Validator Testing](#w3c-jigsaw-validator-testing)
+    + [Bug and Issues](#bug-and-issues)
+  * [Deployment](#deployment)
+    + [Template](#template)
+    + [Version Control](#version-control)
+    + [Deployment to GitHub Pages](#deployment-to-github-pages)
+    + [Deploying New Changes](#deploying-new-changes)
+    + [Clone the ‘RathmackneeCastle’ GitHub Code Repository locally](#clone-the--rathmackneecastle--github-code-repository-locally)
+  * [Credits](#credits)
+    + [Mentor Support](#mentor-support)
+    + [CSS Tricks](#css-tricks)
+    + [Markdown Language](#markdown-language)
+    + [W3C School Flex Box Responsive](#w3c-school-flex-box-responsive)
+    + [W3C School Page Regions](#w3c-school-page-regions)
+    + [W3C School Contact Form](#w3c-school-contact-form)
+    + [Code Insitute Form Dump](#code-insitute-form-dump)
+    + [W3C School Responsive Web Design - Images](#w3c-school-responsive-web-design---images)
+    + [W3C School HTML Semantic Elements](#w3c-school-html-semantic-elements)
+    + [CSS Sticky Footer](#css-sticky-footer)
+    + [Unicorn Revealer](#unicorn-revealer)
+    + [Chrome Dev Tools](#chrome-dev-tools)
+    + [Git and GitHub](#git-and-github)
+    + [Multi Device Website Mockup Generator](#multi-device-website-mockup-generator)
+    + [Version Control](#version-control-1)
+    + [Content](#content)
+
 ## Features of Website
 
 ### Header
@@ -61,6 +143,12 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
  * Users will receive a successful message on submit button press. The POST in the form is going to *[Code Institute Form Dump](https://formdump.codeinstitute.net/)*. Click *[Confirm Page](https://mickymacirl.github.io/rathmackneecastle/confirm.html)* to see the Confirm Message.
  
 ![Confirm Page](/docs/confirmpage.jpg)
+
+### Features to be Added
+
+1. Hamburger menu for small screens.
+2. A link to a copy of a pdf print handout on the history of Rathmacknee Castle.
+3. A separate page with a Gallery of images.
 
 ## Design
 ### Colors
