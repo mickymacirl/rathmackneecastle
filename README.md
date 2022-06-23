@@ -99,11 +99,11 @@ I've made the decision to use the imported *[Montserrat](https://fonts.adobe.com
 
 I chose this typeface because, in my opinion, it blends nicely with the web site's design and complements the font used in the logo which is *[Anton](https://fonts.adobe.com/fonts/anton)*. 
 
-## Montserrat
+### Montserrat
 
 ![Montserrat Font](/docs/monfont.jpg)
 
-## Anton
+### Anton
 
 ![Anton Font](/docs/antfont.jpg)
 
