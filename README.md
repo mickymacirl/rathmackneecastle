@@ -10,8 +10,6 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 # Table of Contents
 
-- [Rathmacknee Castle](#rathmacknee-castle)
-- [Table of Contents](#table-of-contents)
 - [Features of Website](#features-of-website)
   * [Header](#header)
   * [NavBar](#navbar)
