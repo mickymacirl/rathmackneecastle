@@ -229,7 +229,7 @@ I chose this typeface because, in my opinion, it blends nicely with the web site
 # Testing
 ## Responsiveness
 
-Pages were tested on various different screen sizes from 320px on a Samsung fold 2, iPhone 11, Samung Galaxy Tab, Nexus 7 and a wide screen Windows machine.
+Pages were tested on various different screen sizes from 320px on a Samsung fold 2, iPhone 11, Samsung Galaxy Tab, Nexus 7 and a wide screen Windows machine.
 
 Pages were tested on most modern browsers including Microsoft Edge, Chrome, Firefox, Opera and Brave.
 
