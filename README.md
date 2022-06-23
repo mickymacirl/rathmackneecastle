@@ -10,85 +10,6 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 # Table of Contents
 
-- [Features of Website](#features-of-website)
-  * [Header](#header)
-  * [NavBar](#navbar)
-  * [Footer](#footer)
-  * [404 page](#404-page)
-  * [Contact page](#contact-page)
-  * [Landing page](#landing-page)
-  * [History page](#history-page)
-  * [Confirm page](#confirm-page)
-  * [Features to be Added](#features-to-be-added)
-- [Design](#design)
-  * [Colors](#colors)
-  * [Social Media Icons](#social-media-icons)
-  * [Fonts](#fonts)
-  * [Montserrat](#montserrat)
-  * [Anton](#anton)
-  * [Wireframes](#wireframes)
-    + [Landing Page](#landing-page)
-    + [History Page](#history-page)
-    + [Contact Page](#contact-page)
-    + [404 Page](#404-page)
-    + [Confirm Page](#confirm-page)
-- [Technology](#technology)
-  * [HTML](#html)
-  * [CSS](#css)
-  * [Visual Studio Code](#visual-studio-code)
-  * [GitHub](#github)
-  * [Git](#git)
-  * [Adobe Photoshop](#adobe-photoshop)
-  * [Adobe Dreamweaver](#adobe-dreamweaver)
-  * [Google Fonts](#google-fonts)
-  * [Font Awesome Icons](#font-awesome-icons)
-  * [balsamiq](#balsamiq)
-- [Testing](#testing)
-  * [Responsiveness](#responsiveness)
-- [Accessibility](#accessibility)
-- [Lighthouse Testing](#lighthouse-testing)
-  * [Desktop Testing](#desktop-testing)
-  * [Mobile Testing](#mobile-testing)
-- [Functional Testing](#functional-testing)
-  * [Navigation Links Testing](#navigation-links-testing)
-  * [Form Testing](#form-testing)
-    + [Form Submit](#form-submit)
-    + [Form Validation](#form-validation)
-  * [History Gallery Testing](#history-gallery-testing)
-    + [Gallery Image Links](#gallery-image-links)
-    + [Gallery Image Hover Over](#gallery-image-hover-over)
-    + [Gallery Image Responiveness](#gallery-image-responiveness)
-  * [Font Awesome Icon Testing](#font-awesome-icon-testing)
-  * [404 Page Testing](#404-page-testing)
-- [Validator Testing](#validator-testing)
-  * [Meta Tags](#meta-tags)
-  * [W3C HTML Validator Testing](#w3c-html-validator-testing)
-  * [W3C JIGSAW Validator Testing](#w3c-jigsaw-validator-testing)
-  * [Bug and Issues](#bug-and-issues)
-- [Deployment](#deployment)
-  * [Template](#template)
-  * [Version Control](#version-control)
-  * [Deployment to GitHub Pages](#deployment-to-github-pages)
-  * [Deploying New Changes](#deploying-new-changes)
-  * [Clone the ‘cathmackneecastle’ GitHub Code Repository locally](#clone-the--cathmackneecastle--github-code-repository-locally)
-- [Credits](#credits)
-  * [Mentor Support](#mentor-support)
-  * [CSS Tricks](#css-tricks)
-  * [Markdown Language](#markdown-language)
-  * [W3C School Flex Box Responsive](#w3c-school-flex-box-responsive)
-  * [W3C School Page Regions](#w3c-school-page-regions)
-  * [W3C School Contact Form](#w3c-school-contact-form)
-  * [Code Institute Form Dump](#code-institute-form-dump)
-  * [W3C School Responsive Web Design - Images](#w3c-school-responsive-web-design---images)
-  * [W3C School HTML Semantic Elements](#w3c-school-html-semantic-elements)
-  * [CSS Sticky Footer](#css-sticky-footer)
-  * [Unicorn Revealer](#unicorn-revealer)
-  * [Chrome Dev Tools](#chrome-dev-tools)
-  * [Git and GitHub](#git-and-github)
-  * [Multi Device Website Mockup Generator](#multi-device-website-mockup-generator)
-  * [Version Control](#version-control-1)
-  * [Content](#content)
-
 # Features of Website
 
 ## Header
@@ -112,18 +33,6 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ![Footer](/docs/footer.jpg)
 
-## 404 page
-* A 404 broken page will be created and allow the user to easily navigate back to home page.
-* Users will still keep the look and feel of the website, with a easy to see return to home page link in the center of the screen.
-
-![404 Page](/docs/404page.jpg)
-
-## Contact page
-* The contact page will provide the user with a contact form to request additional information.
-* Users will fill out a form with a submit button, seeking First Name, Last Name, and a Subject text field.
-
-![Contact Us Page](/docs/contactuspage.jpg)
-
 ## Landing page
 * The landing page will display a picture using method as a hero image for screen sizes of more than 700px.
 * The landing page will provide the user information about the Castle, with the site log, navbar and footer layout.
@@ -135,6 +44,18 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * The History page will provide the user links to articles and video's about the Castle's history.
 
 ![History Page](/docs/history.jpg)
+
+## Contact page
+* The contact page will provide the user with a contact form to request additional information.
+* Users will fill out a form with a submit button, seeking First Name, Last Name, and a Subject text field.
+
+![Contact Us Page](/docs/contactuspage.jpg)
+
+## 404 page
+* A 404 broken page will be created and allow the user to easily navigate back to home page.
+* Users will still keep the look and feel of the website, with a easy to see return to home page link in the center of the screen.
+
+![404 Page](/docs/404page.jpg)
 
 ## Confirm page
  * The Confirm page will provide the user with a message about successful submit.
@@ -175,11 +96,11 @@ I've made the decision to use the imported *[Montserrat](https://fonts.adobe.com
 
 I chose this typeface because, in my opinion, it blends nicely with the website's design and complements the font used in the logo which is *[Anton](https://fonts.adobe.com/fonts/anton)*. 
 
-## Montserrat
+### Montserrat
 
 ![Montserrat Font](/docs/monfont.jpg)
 
-## Anton
+### Anton
 
 ![Anton Font](/docs/antfont.jpg)
 
