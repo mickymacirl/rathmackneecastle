@@ -81,6 +81,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
   * [Code Institute Form Dump](#code-institute-form-dump)
   * [W3C School Responsive Web Design - Images](#w3c-school-responsive-web-design---images)
   * [W3C School HTML Semantic Elements](#w3c-school-html-semantic-elements)
+  * [W3C School CSS Image Gallery](#w3c-school-css-image-gallery)
   * [CSS Sticky Footer](#css-sticky-footer)
   * [Unicorn Revealer](#unicorn-revealer)
   * [Chrome Dev Tools](#chrome-dev-tools)
@@ -513,6 +514,9 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * Used *[W3C School Responsive Web Design - Images](https://www.w3schools.com/Css/css_rwd_images.asp)* to create hero image.
 ## W3C School HTML Semantic Elements
 * Used *[W3C School HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)* to add semantic html.
+## W3C School CSS Image Gallery
+* Used *[W3C School CSS Image Gallery](https://www.w3schools.com/html/html5_semantic_elements.asp)* to add CSS image gallery.
+https://www.w3schools.com/Css/css_image_gallery.asp
 ## CSS Sticky Footer
 * Used calc from *[Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)* for footer.
 ## Unicorn Revealer
