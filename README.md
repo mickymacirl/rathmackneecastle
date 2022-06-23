@@ -515,8 +515,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ## W3C School HTML Semantic Elements
 * Used *[W3C School HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)* to add semantic html.
 ## W3C School CSS Image Gallery
-* Used *[W3C School CSS Image Gallery](https://www.w3schools.com/html/html5_semantic_elements.asp)* to add CSS image gallery.
-https://www.w3schools.com/Css/css_image_gallery.asp
+* Used *[W3C School CSS Image Gallery](https://www.w3schools.com/Css/css_image_gallery.asp)* to add CSS image gallery.
 ## CSS Sticky Footer
 * Used calc from *[Sticky Footer, Five Ways](https://css-tricks.com/couple-takes-sticky-footer/)* for footer.
 ## Unicorn Revealer
