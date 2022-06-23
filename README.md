@@ -475,7 +475,7 @@ The site was deployed to **GitHub Pages**.
 Below are the steps required:
 
 * In **GitHub**, navigate to your **username.github.io** repository and click **Settings**.
-* Within **Settings**, navigate to the **Source** section within the **Github Pages** section. From the dropdown menu, select **master branch** and then click **Save**.
+* Within **Settings**, navigate to the **Source** section within the **GitHub Pages** section. From the dropdown menu, select **master branch** and then click **Save**.
 
 ## Deploying New Changes
 
@@ -483,7 +483,7 @@ Once **GitHub Pages** is set up, normal **GithHub** flow updates the live page.
 
 View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
-## Clone the ‘cathmackneecastle’ GitHub Code Repository locally
+## Clone the ‘rathmackneecastle’ GitHub Code Repository locally
 
 * Go to the page of the repository that you want to clone
 * Click on **“Code”** menu and copy the URL.
