@@ -318,7 +318,7 @@ The Contact form was tested so that when a user clicks on submit, the act direct
 2.	Navigate to the Contact page using the Contact link.
 3.	Enter details in the First Name, Last Name, Email and the Subject fields.
 4.	Click the Submit button.
-5.  The user should be redirected to the contact.html page with the success message being displayed.
+5.  The user should be redirected to the confirm.html page with the success message being displayed.
 
 **Expected:**
 
