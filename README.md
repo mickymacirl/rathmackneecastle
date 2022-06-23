@@ -2,13 +2,15 @@
 
 Rathmacknee Castle is a website that allows users to have a place to find interesting historical facts surrounding Rathmacknee Castle.
 
-This website will provide information on the castle in the townsland of Rathmacknee in Wexford, Ireland. This site will give the information about the history of the castle, links to social media accounts and a contact form to contact the castle owners.
+This website will provide information on the castle in the townland of Rathmacknee in Wexford, Ireland. This site will give information about the history of the castle, links to social media accounts and a contact form to contact the castle owners.
 
 ![Multi Mockup](/docs/multi.jpg)
 
 View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 # Table of Contents
+
+
 
 # Features of Website
 
@@ -19,7 +21,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ![Headers](/docs/header.jpg)
 
 ## NavBar
-* The navigation links to the Home, History, Contact pages and it is responsive on all device sizes.
+* The navigation links to the Home, History, and Contact pages and it is responsive on all device sizes.
 * Users will be able to navigate between each page of the site, having consistent menu placement on the different screen sizes.
 
 ![Navbar Readme](/docs/navbar_readme.jpg)
@@ -27,14 +29,26 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 ![Navbar Readme Responsive](/docs/navbar_readmesmall.jpg)
 
 ## Footer
-* The footer links to social media websites, and that are set to open in a new tab window.
+* The footer links to social media websites, and that is set to open in a new tab window.
 * Icons will use visually impaired features like aria labels.
 * Users will be able to find social media links while in every page as they are a part of the footer of the site.
 
 ![Footer](/docs/footer.jpg)
 
+## 404 page
+* A 404 broken page will be created and allow the user to easily navigate back to the home page.
+* Users will still keep the look and feel of the website, with an easy to see a return to home page link in the center of the screen.
+
+![404 Page](/docs/404page.jpg)
+
+## Contact page
+* The contact page will provide the user with a contact form to request additional information.
+* Users will fill out a form with a submit button, seeking First Name, Last Name, and a Subject text field.
+
+![Contact Us Page](/docs/contactuspage.jpg)
+
 ## Landing page
-* The landing page will display a picture using method as a hero image for screen sizes of more than 700px.
+* The landing page will display a picture using the method as a hero image for screen sizes of more than 700px.
 * The landing page will provide the user information about the Castle, with the site log, navbar and footer layout.
 
 ![Landing Page](/docs/landing.jpg)
@@ -45,21 +59,9 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ![History Page](/docs/history.jpg)
 
-## Contact page
-* The contact page will provide the user with a contact form to request additional information.
-* Users will fill out a form with a submit button, seeking First Name, Last Name, and a Subject text field.
-
-![Contact Us Page](/docs/contactuspage.jpg)
-
-## 404 page
-* A 404 broken page will be created and allow the user to easily navigate back to home page.
-* Users will still keep the look and feel of the website, with a easy to see return to home page link in the center of the screen.
-
-![404 Page](/docs/404page.jpg)
-
 ## Confirm page
- * The Confirm page will provide the user with a message about successful submit.
- * The Confirm page will provide a thanks and a average response time.
+ * The Confirm page will provide the user with a message about successful submission.
+ * The Confirm page will provide thanks and an average response time.
  * Users will receive a successful message on submit button press. The POST in the form is going to *[Code Institute Form Dump](https://formdump.codeinstitute.net/)*. Click *[Confirm Page](https://mickymacirl.github.io/rathmackneecastle/confirm.html)* to see the Confirm Message.
  
 ![Confirm Page](/docs/confirmpage.jpg)
@@ -92,15 +94,15 @@ The icons for social media are from the Font Awesome library.  Choosing the squa
 
 ## Fonts
 
-I've made the decision to use the imported *[Montserrat](https://fonts.adobe.com/fonts/montserrat#details-section)* typeface from Google Fonts for the main font of text and menus in the website.
+I've made the decision to use the imported *[Montserrat](https://fonts.adobe.com/fonts/montserrat#details-section)* typeface from Google Fonts for the main font of text and menus on the website.
 
-I chose this typeface because, in my opinion, it blends nicely with the website's design and complements the font used in the logo which is *[Anton](https://fonts.adobe.com/fonts/anton)*. 
+I chose this typeface because, in my opinion, it blends nicely with the web site's design and complements the font used in the logo which is *[Anton](https://fonts.adobe.com/fonts/anton)*. 
 
-### Montserrat
+## Montserrat
 
 ![Montserrat Font](/docs/monfont.jpg)
 
-### Anton
+## Anton
 
 ![Anton Font](/docs/antfont.jpg)
 
@@ -154,9 +156,9 @@ Pages were tested on most modern browsers including Microsoft Edge, Chrome, Fire
 **Test Steps:**
 
 1.	Open the corresponding browser and open Rathmacknee Castle site.
-2.	Open the browser developments tools by hitting the corresponding dev tools short cut.
+2.	Open the browser development tools by hitting the corresponding dev tools shortcut.
 3.	Resize to the desired width.
-4.	Click and drag browser window to lower or higher window size.
+4.	Click and drag the browser window to lower or higher window size.
 
 **Expected:**
 
@@ -172,7 +174,7 @@ The website was tested on the following physical devices, with no resizing issue
 * iPhone 11
 * Samsung Galaxy Tab
 * Nexus 7 with Kali Linux
-* Wide screen 4k monitor
+* Widescreen 4k monitor
 
 The website was tested on the following screen sizes using Chrome Dev tools and Unicorn Revealer:
 
@@ -198,7 +200,7 @@ Testing produced an alert on each page, this is due to an adjacent link on the l
 
 ![Wave Results](/docs/waveresults.jpg)
 
-On the History Page, the 3 YouTube video links have generated 3 alerts in relation YouTube Captions being not ideal when using a screen reader. I could not find a fix for this. 
+On the History Page, the 3 YouTube video links have generated 3 alerts in relation to YouTube Captions being not ideal when using a screen reader. I could not find a fix for this. 
 
 ![Wave Results](/docs/waveyoutuberesults.jpg)
 
@@ -228,7 +230,7 @@ The navigation links on the navbar on each page were used to do this and were su
 
 ### Form Submit
 
-The Contact form was tested so that when a user clicks on submit the action directs to the confirm.html web page with a success message.
+The Contact form was tested so that when a user clicks on submit, the act directs to the confirm.html web page with a success message.
 
 **Test Steps:** 
 
@@ -248,7 +250,7 @@ The website redirected the user to the confirm.html page with the success messag
 
 ### Form Validation
 
-The Contact form was tested so that when a user tries to submit a blank form, the form should fail to submit with "Please fill out this field" message.
+The Contact form was tested so that when a user tries to submit a blank form, the form should fail to submit with a "Please fill out this field" message.
 
 **Test Steps:** 
 
@@ -258,18 +260,18 @@ The Contact form was tested so that when a user tries to submit a blank form, th
 
 **Expected:**
 
-The form should display the the message "Please fill out this field".
+The form should display the message "Please fill out this field".
 
 **Actual:**
 
-The form displayed the the message "Please fill out this field".
+The form displayed the message "Please fill out this field".
 
 
 ## History Gallery Testing
 
 ### Gallery Image Links
 
-The History Gallery links was tested so that when a user clicks on a picture the link opens the image in a new window.
+The History Gallery links were tested so that when a user clicks on a picture the link opens the image in a new window.
 
 **Test Steps:** 
 
@@ -288,7 +290,7 @@ A new browser window opened with the corresponding clicked image.
 
 ### Gallery Image Hover Over
 
-The History Gallery hover over was tested so that when a user hovers over the image, it should change opacity.
+The History Gallery hover-over was tested so that when a user hovers over the image, it should change the opacity.
 
 **Test Steps:** 
 
@@ -305,9 +307,9 @@ The opacity of the corresponding image will lighten.
 
 The opacity of the corresponding image lightened. 
 
-### Gallery Image Responiveness
+### Gallery Image Responsiveness
 
-The History Gallery responiveness was tested so that when a user changes window resolution, the gallery should follow the row and column rules, and sit to the bottom of the page on 320px devices and to the right on 700px or more.
+The History Gallery responsiveness was tested so that when a user changes window resolution, the gallery should follow the row and column rules, and sit to the bottom of the page on 320px devices and to the right on 700px or more.
 
 **Test Steps:** 
 
@@ -326,9 +328,9 @@ The gallery images sit to the bottom of the page on 320px devices and to the rig
 
 ## Font Awesome Icon Testing
 
-The Font Awesome Icons in the footer were tested to make sure each icon link opened in a new tab and that the color of the hover over matched the color scheme of the website logo and navbar.
+The Font Awesome Icons in the footer were tested to make sure each icon link opened in a new tab and that the color of the hover-over matched the color scheme of the website logo and navbar.
 
-When clicked each of the links opened in a new browser and each of the icons color changes happened successfully.
+When clicked each of the links opened in a new browser and each of the icon's color changes happened successfully.
 
 ## 404 Page Testing
 
@@ -337,7 +339,7 @@ If the user tries to access a missing or broken link on the site, the 404 page s
 **Test Steps:**
 
 1. Open a browser and enter the URL of the contact page.
-2. Modify the URL of the page and remove the second t in the contact.html page URL, so trying to call the contac.html page.
+2. Modify the URL of the page and remove the second t in the contact.html page URL, so try to call the contac.html page.
 3. Click the enter button.
 4. The user should be redirected to the 404.html page with a link back to the home page while maintaining the look and feel of the website.
 
@@ -366,7 +368,7 @@ Validated the correct Meta Data information using *[Meta Tag Analyzer](https://w
 
 ## Bug and Issues
 
-~~When a user browses to the confirm.html web page on a device with more than 700px, the success message doesn't center to the middle of the screen.~~ Fixed by setting p tag style to center. 
+~~When a user browses the confirm.html web page on a device with more than 700px, the success message doesn't center in the middle of the screen.~~ Fixed by setting p tag style to center. 
 
 # Deployment
 
@@ -376,7 +378,7 @@ A repository called 'rathmackneecastle' was created using the *[Code Institute G
 
 ## Version Control
 
-Both Visual Studio code editor and GitPod were used to created this site and then pushed to the GitHub remote repository named ‘rathmackneecastle’.
+Both Visual Studio code editor and GitPod were used to create this site and then pushed to the GitHub remote repository named ‘rathmackneecastle’.
 
  The following commands were used to push code to the remote repository:
 
@@ -397,7 +399,7 @@ Below are the steps required:
 
 ## Deploying New Changes
 
-Once **GitHub Pages** is setup, normal **GithHub** flow updates the live page.
+Once **GitHub Pages** is set up, normal **GithHub** flow updates the live page.
 
 View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
