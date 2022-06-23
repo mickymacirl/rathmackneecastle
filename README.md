@@ -428,7 +428,7 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * Used *[W3C School Page Regions](https://www.w3.org/WAI/tutorials/page-structure/regions/)* to create page regions.
 ## W3C School Contact Form
 * Used *[W3C School Contact Form](https://www.w3schools.com/howto/howto_css_contact_form.asp)* to create contact form.
-## Code Insitute Form Dump
+## Code Institute Form Dump
 * Used *[Code Institute Form Dump](https://formdump.codeinstitute.net/)* to validate contact form.
 ## W3C School Responsive Web Design - Images
 * Used *[W3C School Responsive Web Design - Images](https://www.w3schools.com/Css/css_rwd_images.asp)* to create hero image.
