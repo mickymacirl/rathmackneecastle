@@ -35,18 +35,6 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 
 ![Footer](/docs/footer.jpg)
 
-## 404 page
-* A 404 broken page will be created and allow the user to easily navigate back to the home page.
-* Users will still keep the look and feel of the website, with an easy to see a return to home page link in the center of the screen.
-
-![404 Page](/docs/404page.jpg)
-
-## Contact page
-* The contact page will provide the user with a contact form to request additional information.
-* Users will fill out a form with a submit button, seeking First Name, Last Name, and a Subject text field.
-
-![Contact Us Page](/docs/contactuspage.jpg)
-
 ## Landing page
 * The landing page will display a picture using the method as a hero image for screen sizes of more than 700px.
 * The landing page will provide the user information about the Castle, with the site log, navbar and footer layout.
@@ -58,6 +46,19 @@ View the live site: *[here](https://mickymacirl.github.io/rathmackneecastle/)*
 * The History page will provide the user links to articles and video's about the Castle's history.
 
 ![History Page](/docs/history.jpg)
+
+
+## Contact page
+* The contact page will provide the user with a contact form to request additional information.
+* Users will fill out a form with a submit button, seeking First Name, Last Name, and a Subject text field.
+
+![Contact Us Page](/docs/contactuspage.jpg)
+
+## 404 page
+* A 404 broken page will be created and allow the user to easily navigate back to the home page.
+* Users will still keep the look and feel of the website, with an easy to see a return to home page link in the center of the screen.
+
+![404 Page](/docs/404page.jpg)
 
 ## Confirm page
  * The Confirm page will provide the user with a message about successful submission.
